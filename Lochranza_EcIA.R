@@ -67,7 +67,7 @@ fwbeta
 ggplot(fwinverts, aes(x=hill, y=Order, color=BMWPscore, size = 4)) +geom_point()+
   labs(x= 'Hill', y='Order', color = 'ASPT') + theme_gray()
 
-#Now terrestrial mammals#Now terOrderrestrial mammals
+#Now terrestrial mammals
 #Now we see an issue with the data as it counts "no records" as a different species
 mam<-filter(mam, mam$scientificName != 'No records')
 mamgamma<- length(unique(mam$scientificName))
@@ -91,7 +91,7 @@ ggplot(mam, aes(x=hill, y=scientificName, color= Commonname,size = 4)) +geom_poi
   labs(x= 'Hill', y='Species', color= 'Common name', title='(Fig.6) Mammal Presence') + theme_gray()
 
 #Abundance based
-#In order to show alpha diversity 
+#load in and sort any problems
 moth$hill<- as.factor(ifelse(str_detect(moth$eventID, regex('N')),'North', 'South'))
 moth[42,6] = 'Lepidoptera'
 moth<-filter(moth, moth$Order=='Lepidoptera ')
@@ -99,7 +99,7 @@ moth[18,6] = 'Araneae'
 moth[24,6] = 'Diptera'
 moth<-filter(moth, moth$Order=='Lepidoptera ')
 
-
+#separate into hills and calculate diversity
 Nmoth<- filter(moth, moth$hill=='North')
 Smoth<- filter(moth, moth$hill=='South')
 
@@ -127,6 +127,8 @@ moth[23,6] = 'Araneae'
 moth[38,6] = 'Diptera'
 moth$hill<- as.factor(ifelse(str_detect(moth$eventID, regex('N')),'North', 'South'))
 nonmoth<-filter(moth, moth$Order!='Lepidoptera ')
+
+#separate into hills and calculate diversity
 Nnonmoth<- filter(nonmoth, nonmoth$hill=='North')
 Snonmoth<- filter(nonmoth, nonmoth$hill=='South')
 
@@ -145,6 +147,8 @@ ggplot(Snonmoth, aes(x= individualCount, y=scientificName, fill=Commonname)) +ge
 
 #For Birds
 birds$hill<- as.factor(ifelse(str_detect(birds$eventID, regex('N')),'North', 'South'))
+
+#separate into hills and calculate diversity
 Nbirds<- filter(birds, birds$hill=='North')
 Sbirds<- filter(birds, birds$hill=='South')
 
@@ -166,6 +170,8 @@ birdsgamma<- length(unique(birds$scientificName))
 
 #For terrestrial invertebrates
 terinverts$hill<- as.factor(ifelse(str_detect(terinverts$eventID, regex('S')),'South', 'North'))
+
+#separate into hills and calculate diversity
 Nterinverts<- filter(terinverts, terinverts$hill=='North')
 Sterinverts<- filter(terinverts, terinverts$hill=='South')
 
@@ -187,6 +193,8 @@ terinvertsgamma<- length(unique(terinverts$scientificName))
 
 #For Plants
 plants$hill<- as.factor(ifelse(str_detect(plants$eventID, regex('N')),'North', 'South'))
+
+#separate into hills and calculate diversity
 Nplants<- filter(plants, plants$hill=='North')
 Splants<- filter(plants, plants$hill=='South')
 
