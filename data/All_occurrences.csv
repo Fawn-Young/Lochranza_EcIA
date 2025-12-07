@@ -1,0 +1,487 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,taxonRank,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,Latitude,Longitude,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode
+N1B,N1B_1,Humanobservation,2025-09-10,Animalia,Vertebrata,Anthus pratensis,Meadow pipit,Species,6,6,Individual,Present,,,NA,,,WGS84,SCO
+S2B,S2B_1,Humanobservation,2025-09-11,Animalia,Vertebrata,Falco tinnunculus,Common kestrel,Species,1,1,Individual,Present,,,,,,TRF (OS),SCO
+N3B,N3B_1,Humanobservation,2025-09-12,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,3,3,Flock,Present,,,,,,TRF (OS),SCO
+N3B,N3B_2,Humanobservation,2025-09-12,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,4,4,Flock,Present,,,,,,TRF (OS),SCO
+N3B,N3B_3,Humanobservation,2025-09-12,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,2,2,Flock,Present,,,,,,TRF (OS),SCO
+N3B,N3B_4,Humanobservation,2025-09-12,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,1,1,Individual,Present,,,,,,TRF (OS),SCO
+N3B,N3B_5,Humanobservation,2025-09-12,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,1,1,Individual,Present,,,,,,TRF (OS),SCO
+N3B,N3B_6,Humanobservation,2025-09-12,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,1,1,Individual,Present,,,,,,TRF (OS),SCO
+N3B,N3B_7,Humanobservation,2025-09-12,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,1,1,Individual,Present,,,,,,TRF (OS),SCO
+N3B,N3B_8,Humanobservation,2025-09-12,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,1,1,Individual,Present,,,,,,TRF (OS),SCO
+N3B,N3B_,Humanobservation,2025-09-12,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,2,2,Flock,Present,,,,,,TRF (OS),SCO
+N3B,N3B_,Humanobservation,2025-09-12,Animalia,Vertebrata,Motacilla alba,Pied wagtail,Species,1,1,Individual,Present,,,,,,,
+N3B,N3B_,Humanobservation,2025-09-12,Animalia,Vertebrata,Erithacus rubecula,European robin,Species,1,1,Individual,Present,,,,,,,
+N3B,N3B_,Humanobservation,2025-09-12,Animalia,Vertebrata,Cyanistes caeruleus,Blue tit,Species,1,1,Individual,Present,,,,,,,
+N3B,N3B_,Humanobservation,2025-09-12,Animalia,Vertebrata,Coloeus monedula,Western jackdaw,Species,15,15,Flock,Present,,,,,,,
+N3B,N3B_,Humanobservation,2025-09-12,Animalia,Vertebrata,Turdus spp,Unidentified thrush,Genus,1,1,Flock,Present,,,,,,,
+N3B,N3B_,Humanobservation,2025-09-12,Animalia,Vertebrata,Periparus ater,Coal tit,Species,1,1,Flock,Present,,,,,,,
+N3B_OoB,N3B_OoB_1,Humanobservation,2025-09-12,Animalia,Vertebrata,Coloeus monedula,Western jackdaw,Species,1,1,Individual,Present,,,,,,,
+N2B,N2B_1,Humanobservation,2025-09-11,Animalia,Vertebrata,Aquila chrysaetos,Golden eagle,Species,1,1,Individual,Present,,,,,,,
+N2B,N2B_2,Humanobservation,2025-09-11,Animalia,Vertebrata,Corvus corone,Carrion crow,Species,2,2,Flock,Present,,,,,,,
+N2B,N2B_3,Humanobservation,2025-09-11,Animalia,Vertebrata,Turdus philomelos,Song thrush,Species,3,3,Flock,Present,,,,,,,
+N2B,N2B_4,Humanobservation,2025-09-11,Animalia,Vertebrata,Unidentified,,Unidentified,1,1,Individual,Present,,,,,,,
+N2B,N2B_5,Humanobservation,2025-09-11,Animalia,Vertebrata,Alauda arvensis,Skylark,Species,2,2,Flock,Present,,,,,,,
+S3B,S3B_1,Humanobservation,2025-09-12,Animalia,Vertebrata,Columba palumbus,Wood pigeon,Species,5,5,Flock,Present,,,,,,,
+S3B,S3B_2,Humanobservation,2025-09-12,Animalia,Vertebrata,Anthus pratensis,Meadow pipit,Species,6,6,Flock,Present,,,,,,,
+S3B,S3B_3,Humanobservation,2025-09-12,Animalia,Vertebrata,Corvus corax,Common raven,Species,2,2,Flock,Present,,,,,,,
+S3B,S3B_4,Humanobservation,2025-09-12,Animalia,Vertebrata,Turdus philomelos,Song thrush,Species,1,1,Individual,Present,,,,,,,
+NB_I,NB_I_1,Humanobservation,2025-09-11,Animalia,Vertebrata,Alauda arvensis,Skylark,Species,1,1,Individual,Present,,,,,,,
+NB_I,NB_I_2,Humanobservation,2025-09-11,Animalia,Vertebrata,Falco tinnunculus,Common kestrel,Species,1,1,Individual,Present,,,,,,,
+S2B_OoB,S2B_OoB_1,Humanobservation,2025-09-11,Animalia,Vertebrata,Aquila chrysaetos,Golden eagle,Species,1,1,Individual,Present,,,,,,,
+S2B_OoB,S2B_OoB_2,HumanobservationCall,2025-09-11,Animalia,Vertebrata,Troglodytes troglodytes,Eurasion wren,Species,1,1,Individual,Present,,,,,,,
+S2B_OoB,S2B_OoB_3,HumanobservationCall,2025-09-11,Animalia,Vertebrata,Troglodytes troglodytes,Eurasion wren,Species,2,2,Flock,Present,,,,,,,
+S2B_OoB,S2B_OoB_3,HumanobservationCall,2025-09-11,Animalia,Vertebrata,Erithacus rubecula,European robin,Species,1,1,Individual,Present,,,,,,,
+N1B_OoB,N1B_OoB_1,Humanobservation,2025-09-10,Animalia,Vertebrata,Aquila chrysaetos,Golden eagle,Species,2,2,Flock,Present,,,,,,,
+N1B_OoB,N1B_OoB_2,Humanobservation,2025-09-10,Animalia,Vertebrata,Aquila chrysaetos,Golden eagle,Species,1,1,Individual,Present,,,,,,,
+S1B,S1B_1,Humanobservation,2025-09-10,Animalia,Vertebrata,Aquila chrysaetos,Golden eagle,Species,1,1,Individual,Present,,,,,,,
+S1B,S1B_2,Humanobservation,2025-09-10,Animalia,Vertebrata,Corvus corax,Common raven,Species,2,2,Flock,Present,,,,,,,
+S1B,S1B_3,Humanobservation,2025-09-10,Animalia,Vertebrata,Anthus pratensis,Meadow pipit,Species,2,2,Flock,Present,,,,,,,
+S1B,S1B_4,Humanobservation,2025-09-10,Animalia,Vertebrata,Certhia familiaris,Treecreeper,Species,1,1,Individual,Present,,,,,,,
+S1B,S1B_5,Humanobservation,2025-09-10,Animalia,Vertebrata,Troglodytes troglodytes,Eurasion wren,Species,2,2,Flock,Present,,,,,,,
+S1B,S1B_6,Humanobservation,2025-09-10,Animalia,Vertebrata,Aegithalos caudatus,Long tailed tit,Species,1,1,Individual,Present,,,,,,,
+SIB_OoB,S1B_OoB_1,HumanobservationCall,2025-09-10,,,,Nest,,3,3,,,,,,,,,
+SIB_OoB,S1B_OoB_2,HumanobservationCall,2025-09-10,Animalia,Vertebrata,Anthus pratensis,Meadow pipit,Species,1,1,Individual,Present,,,,,,,
+S3MR,S3MR_1,CameraTrap,2025-09-11,Animalia,Rodentia,Sciurus vulgaris,Red Squirrel,Species,1,1,Individual,Present,N 055°69.919,W 005°28.530,N/A,,,WGS84,SCO
+N2MR,N2MR_1,CameraTrap,2025-09-10,No records,No records,No records,No records,No records,0,0,,Absent,N 055°70.727,W 005°28.102,N/A,,,WGS84,SCO
+S3MR,S3MR_2,CameraTrap,2025-09-10,No records,No records,No records,No records,No records,0,0,,Absent,N 055°69.738,W 005°28.134,N/A,,,WGS84,SCO
+N3MR,N3MR_1,CameraTrap,2025-09-10,No records,No records,No records,No records,No records,0,0,,Absent,N 055°70.760,W 005°27.946,N/A,,,WGS84,SCO
+N1MR,N1MR_1,Humanobservation,2025-09-09,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Individual,Present,N 055°70.738,W 005°27.611,N/A,,,WGS84,SCO
+N1MR,N1MR_2,Humanobservation,2025-09-09,Animalia,Artiodactyla,Ovis sp.,Domestic sheep,Genus,1,1,Individual,Present,N 055°70.426,W 005°27.224,N/A,,,WGS84,SCO
+N2MR,N2MR_2,Humanobservation,2025-09-10,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Individual,Present,N 055°70.534,W 005°26.875,N/A,,,WGS84,SCO
+N2MR,N2MR_3,Humanobservation,2025-09-10,Animalia,Artiodactyla,Ovis sp.,Domestic sheep,Genus,1,1,Individual,Present,N 055°70.583,W 005°26.983,N/A,,,WGS84,SCO
+N2MR,N2MR_4,Humanobservation,2025-09-11,Animalia,Carnivora,Meles meles,Badger,Species,1,1,Individual,Present,N 055°70.731,W 005°27.867,N/A,,,WGS84,SCO
+N3MR,N3MR_2,Humanobservation,2025-09-12,Animalia,Rodentia,Sciurus vulgaris,Red Squirrel,Species,2,2,Individual,Present,N 055°70.328,W 005°27.880,N/A,,,WGS84,SCO
+N3MR,N3MR_3,Humanobservation,2025-09-12,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Individual,Present,N 055°70.528,W 005°28.117,N/A,,,WGS84,SCO
+S1MR,S1MR_1,Humanobservation,2025-09-11,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Faeces,Present,N 055°69.590,W 005°28.581,N/A,,,WGS84,SCO
+S2MR,S2MR_1,Humanobservation,2025-09-10,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Individual,Present,N 055°69.755,W 005°28.505,N/A,,,WGS84,SCO
+S3MR,S3MR_3,Humanobservation,2025-09-12,Animalia,Artiodactyla,Ovis sp.,Domestic sheep,Genus,1,1,Individual,Present,N 055°69.893,W 005°28468,N/A,,,WGS84,SCO
+S3MR,S3MR_3,Humanobservation,2025-09-12,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Individual,Present,N 055°69.718,W 005°28258,N/A,,,WGS84,SCO
+ND4FI_A,ND4FI_W1,Humanobservation,2025-09-11,Animalia,Plecoptera,,Stonefly_larvae,Order,4,4,Individuals,Present,N55 42.444,W005 17.068,7,,,WGS84,GB
+ND4FI_A,ND4FI_W2,Humanobservation,2025-09-11,Animalia,Ephemeroptera,,Mayfly_larvae,Order,2,2,Individuals,Present,N55 42.444,W005 17.068,10,,,WGS84,GB
+ND4FI_A,ND4FI_W3,Humanobservation,2025-09-11,Animalia,Coleoptera,,Waterbeetle ,Order,1,1,Individuals,Present,N55 42.444,W005 17.068,5,,,WGS84,GB
+ND4FI_A,ND4FI_W4,Humanobservation,2025-09-11,Animalia,Oligochaeta,,Worm,Order,2,2,Individuals,Present,N55 42.444,W005 17.068,1,,,WGS84,GB
+ND4FI_B,ND4FI_E1,Humanobservation,2025-09-12,Animalia,Odonata,anisoptera,Dragonfly_larvae,Family,1,1,Individuals,Present,N55 42.174,W005 15.983,,,,WGS84,GB
+ND4FI_B,ND4FI_E2,Humanobservation,2025-09-12,Animalia,Oligochaeta,,Worm,Order,3,3,Individuals,Present,N55 42.174,W005 15.983,1,,,WGS84,GB
+ND4FI_B,ND4FI_E3,Humanobservation,2025-09-12,Animalia,Plecoptera,,Stonefly_larvae,Order,1,1,Individuals,Present,N55 42.174,W005 15.983,7,,,WGS84,GB
+ND4FI_B,ND4FI_E4,Humanobservation,2025-09-12,Animalia,Ephemeroptera,,Mayfly_larvae,Order,3,3,Individuals,Present,N55 42.174,W005 15.983,10,,,WGS84,GB
+ND4FI_B,ND4FI_E5,Humanobservation,2025-09-12,Animalia,Coleoptera,,Waterbeetle_larvae,Order,1,1,Individuals,Present,N55 42.174,W005 15.983,5,,,WGS84,GB
+ND4FI_B,ND4FI_E6,Humanobservation,2025-09-12,Animalia,Trichoptera,,Cased_caddisfly_larvae,Order,2,2,Individuals,Present,N55 42.174,W005 15.983,"5, 10",,,WGS84,GB
+NU3FI_A,NU4FI_W1,Humanobservation,2025-09-11,Animalia,Trichoptera,Hydropsychidae,Caddisfly_larvae,Family,1,1,Individuals,Present,N55 42.464,W005 17.036,5,,,WGS84,GB
+NU3FI_A,NU4FI_W2,Humanobservation,2025-09-11,Animalia,Coleoptera,,Waterbeetle ,Order,3,3,Individuals,Present,N55 42.464,W005 17.036,5,,,WGS84,GB
+NU3FI_A,NU4FI_W3,Humanobservation,2025-09-11,Animalia,Oligochaeta,,Worm,Order,1,1,Individuals,Present,N55 42.464,W005 17.036,1,,,WGS84,GB
+NU3FI_A,NU4FI_W4,Humanobservation,2025-09-11,Animalia,Trichoptera,Philopotamidae,Caseless_caddisfly_larvae,Family,4,4,Individuals,Present,N55 42.464,W005 17.036,"5,10",,,WGS84,GB
+NU3FI_A,NU4FI_W5,Humanobservation,2025-09-11,Animalia,Trichoptera,,Cased_caddisfly_larvae,Order,3,3,Individuals,Present,N55 42.464,W005 17.036,"5,10",,,WGS84,GB
+NU3FI_A,NU4FI_W6,Humanobservation,2025-09-11,Animalia,Odonata,anisoptera,Dragonfly_larvae,Family,1,1,Individuals,Present,N55 42.464 ,W005 17.036,,,,WGS84,GB
+NU3FI_B,NU4FI_E1,Humanobservation,2025-09-12,Animalia,Plecoptera,,Stonefly_larvae,Order,2,2,Individuals,Present,N55 42.261,W005 16.032,7,,,WGS84,GB
+NU3FI_B,NU4FI_E2,Humanobservation,2025-09-12,Animalia,Ephemeroptera,,Mayfly_larvae,Order,1,1,Individuals,Present,N55 42.261,W005 16.032,10,,,WGS84,GB
+NU3FI_B,NU4FI_E3,Humanobservation,2025-09-12,Animalia,Oligochaeta,,Worm,Order,1,1,Individuals,Present,N55 42.261,W005 16.032,1,,,WGS84,GB
+SD4FI_A,D4FI_A1,Humanobservation,2025-09-10,Animalia,Oligochaeta,,Worm,Order,1,1,Individuals,Present,N55 41.854,W005 16.439,1,,,WGS84,GB
+SD4FI_A,D4FI_A2,Humanobservation,2025-09-10,Animalia,Diptera,,Blackfly_larvae,Order,1,1,Individuals,Present,N55 41.854,W005 16.439,5,,,WGS84,GB
+SD4FI_B,SD4FI_B1,Humanobservation,2025-09-11,Animalia,Coleoptera,dytiscidae,Diving_beetle,Family,1,1,Individuals,Present,N55 42.261,W005 16.032,5,,,WGS84,GB
+SD4FI_B,SD4FI_B2,Humanobservation,2025-09-11,Animalia,Hemiptera,Corixidae,Lesser Water Boatman,Family,4,4,Individuals,Present,N55 41.802,W005 16.876,,,,WGS84,GB
+SD4FI_B,SD4FI_B3,Humanobservation,2025-09-11,Animalia,Odonata,zygoptera ,Damselfly_larvae,Suborder,2,2,Individuals,Present,N55 41.802,W005 16.876,,,,WGS84,GB
+SD4FI_B,SD4FI_B4,Humanobservation,2025-09-11,Animalia,Odonata,anisoptera,Dragonfly_larvae,Infraorder,3,3,Individuals,Present,N55 41.802,W005 16.876,,,,WGS84,GB
+SD4FI_B,SD4FI_B5,Humanobservation,2025-09-11,Animalia,Hemiptera,Notonectidae,Greater Water Boatman,Family,2,2,Individuals,Present,N55 41.802,W005 16.876,,,,WGS84,GB
+SU4FI_A,SU4FI_A1,Humanobservation,2025-09-10,Animalia,Plecoptera,,Stonefly_larvae,Order,8,8,Individuals,Present,N55 41.828,W005 16.382,7,,,WGS84,GB
+SU4FI_A,SU4FI_A2,Humanobservation,2025-09-10,Animalia,Coleoptera,,Waterbeetle_larvae ,Order,1,1,Individuals,Present,N55 41.829,W005 16.383,5,,,WGS84,GB
+SU4FI_A,SU4FI_A3,Humanobservation,2025-09-10,Animalia,Coleoptera,,Waterbeetle ,Order,1,1,Individuals,Present,N55 41.830,W005 16.384,5,,,WGS84,GB
+SU4FI_A,SU4F1_A4,Humanobservation,2025-09-10,Animalia,Trichoptera,,Caddisfly_larvae,Order,1,1,Individuals,Present,N55 41.831,W005 16.385,"5, 10",,,WGS84,GB
+SU4FI_A,SU4F1_A5,Humanobservation,2025-09-10,Animalia,Ephemeropltera ,,Mayfly_larvae,Order,2,2,Individuals,Present,N55 41.832,W005 16.386,10,,,WGS84,GB
+SU4FI_B,SU4FI_B1,Humanobservation,2025-09-11,Animalia,Ephemeroptera,,Mayfly_larvae,Order,2,2,Individuals,Present,,,10,,,WGS84,GB
+SU4FI_B,SU4FI_B2,Humanobservation,2025-09-11,Animalia,Plecoptera,,Stonefly_larvae,Order,1,1,Individuals,Present,,,7,,,WGS84,GB
+SU4FI_B,SU4FI_B3,Humanobservation,2025-09-11,Animalia,Trichoptera,,Caddisfly_case,Order,1,1,Individuals,Present,,,"5, 10",,,WGS84,GB
+SU4FI_B,SU4FI_B4,Humanobservation,2025-09-11,Animalia,Diptera,simuliidae,Blackfly_larvae,Family,1,1,Individuals,Present,,,1,,,WGS84,GB
+N3P_A,N3P_A1,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,100,Percentagecover,Present,N55  42.253,W005 16.761,,,,WGS84,SCO
+N3P_B,N3P_B1,Humanobservation,2025-09-10,Plantae,Rosales,Rubus fruticosus L.,European_blackberry,Species,1,20,Percentagecover,Present,N55  42.231,W005 16.724,,,,WGS84,SCO
+N3P_B,N3P_B2,Humanobservation,2025-09-10,Plantae,Poales,Agrostis capillaris,Common_bent,Species,1,50,Percentagecover,Present,N55  42.231,W005 16.724,,,,WGS84,SCO
+N3P_B,N3P_B3,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,100,Percentagecover,Present,N55  42.231,W005 16.724,,,,WGS84,SCO
+N3P_B,N3P_B4,Humanobservation,2025-09-10,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,50,Percentagecover,Present,N55  42.231,W005 16.724,,,,WGS84,SCO
+N3P_C,N3P_C1,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,100,Percentagecover,Present,N55  42.205,W005 16.686,,,,WGS84,SCO
+N3P_C,N3P_C2,Humanobservation,2025-09-10,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,60,Percentagecover,Present,N55  42.205,W005 16.686,,,,WGS84,SCO
+N3P_C,N3P_C3,Humanobservation,2025-09-10,Plantae,Rosales,Rubus fruticosus L.,European_blackberry,Species,1,10,Percentagecover,Present,N55  42.205,W005 16.686,,,,WGS84,SCO
+N3P_C,N3P_C4,Humanobservation,2025-09-10,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,100,Percentagecover,Present,N55  42.205,W005 16.686,,,,WGS84,SCO
+N3P_C,N3P_C5,Humanobservation,2025-09-10,Plantae,Lamiales,Teucrium scorodonia,Wood_sage,Species,1,15,Percentagecover,Present,N55  42.205,W005 16.686,,,,WGS84,SCO
+N3P_D,N3P_D1,Humanobservation,2025-09-10,Plantae,Dipsacales,Lonicera periclymenum,European_honeysuckle,Species,1,20,Percentagecover,Present,N55  42.182,W005 16.640,,,,WGS84,SCO
+N3P_D,N3P_D2,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,100,Percentagecover,Present,N55  42.182,W005 16.640,,,,WGS84,SCO
+N3P_D,N3P_D3,Humanobservation,2025-09-10,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,50,Percentagecover,Present,N55  42.182,W005 16.640,,,,WGS84,SCO
+N3P_D,N3P_D4,Humanobservation,2025-09-10,Plantae,Lamiales,Teucrium scorodonia,Wood_sage,Species,1,5,Percentagecover,Present,N55  42.182,W005 16.640,,,,WGS84,SCO
+N3P_E,N3P_E1,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,100,Percentagecover,Present,N55  42.156,W005 16.606,,,,WGS84,SCO
+N3P_E,N3P_E2,Humanobservation,2025-09-10,Plantae,Rosales,Rubus fruticosus L.,European_blackberry,Species,1,25,Percentagecover,Present,N55  42.156,W005 16.606,,,,WGS84,SCO
+N3P_F,N3P_F1,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,100,Percentagecover,Present,N55  42.134,W005 16.563,,,,WGS84,SCO
+N3P_F,N3P_F2,Humanobservation,2025-09-10,Plantae,Rosales,Rubus fruticosus L.,European_blackberry,Species,1,60,Percentagecover,Present,N55  42.134,W005 16.563,,,,WGS84,SCO
+N3P_F,N3P_F3,Humanobservation,2025-09-10,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,40,Percentagecover,Present,N55  42.134,W005 16.563,,,,WGS84,SCO
+N3P_G,N3P_G1,Humanobservation,2025-09-10,Plantae,Rosales,Rubus fruticosus L.,European_blackberry,Species,1,33,Percentagecover,Present,N55  42.110,W005 16.517,,,,WGS84,SCO
+N3P_G,N3P_G2,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,100,Percentagecover,Present,N55  42.110,W005 16.517,,,,WGS84,SCO
+N3P_G,N3P_G3,Humanobservation,2025-09-10,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,40,Percentagecover,Present,N55  42.110,W005 16.517,,,,WGS84,SCO
+N3P_H,N3P_H1,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,100,Percentagecover,Present,N55  42.080,W005 16.471,,,,WGS84,SCO
+N3P_H,N3P_H2,Humanobservation,2025-09-10,Plantae,Ranunculales,Ranunculus repens,Creeping_buttercup,Species,1,25,Percentagecover,Present,N55  42.080,W005 16.471,,,,WGS84,SCO
+N3P_H,N3P_H3,Humanobservation,2025-09-10,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,60,Percentagecover,Present,N55  42.080,W005 16.471,,,,WGS84,SCO
+N3P_H,N3P_H4,Humanobservation,2025-09-10,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55  42.080,W005 16.471,,,,WGS84,SCO
+N3P_H,N3P_H5,Humanobservation,2025-09-10,Plantae,Rosales,Rubus fruticosus L.,European_blackberry,Species,1,35,Percentagecover,Present,N55  42.080,W005 16.471,,,,WGS84,SCO
+N3P_I,N3P_I1,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,100,Percentagecover,Present,N55  42.071,W005 16.414,,,,WGS84,SCO
+N3P_I,N3P_I2,Humanobservation,2025-09-10,Plantae,Rosales,Rubus fruticosus L.,European_blackberry,Species,1,10,Percentagecover,Present,N55  42.071,W005 16.414,,,,WGS84,SCO
+N3P_J,N3P_J1,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,100,Percentagecover,Present,N55  42.056,W005 16.365,,,,WGS84,SCO
+N3P_J,N3P_J2,Humanobservation,2025-09-10,Plantae,Rosales,Rubus fruticosus L.,European_blackberry,Species,1,33,Percentagecover,Present,N55  42.056,W005 16.365,,,,WGS84,SCO
+N3P_J,N3P_J3,Humanobservation,2025-09-10,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,40,Percentagecover,Present,N55  42.056,W005 16.365,,,,WGS84,SCO
+N3P_J,N3P_J4,Humanobservation,2025-09-10,Plantae,Rosales,Rubus fruticosus L.,European_blackberry,Species,1,3,Percentagecover,Present,N55  42.056,W005 16.365,,,,WGS84,SCO
+N3P_J,N3P_J5,Humanobservation,2025-09-10,Plantae,Poales,Agrostis capillaris,Common_bent,Species,1,10,Percentagecover,Present,N55  42.056,W005 16.365,,,,WGS84,SCO
+N3P_J,N3P_J6,Humanobservation,2025-09-10,Plantae,Fabales,Ulex europaeus,Gorse,Species,1,10,Percentagecover,Present,N55  42.056,W005 16.365,,,,WGS84,SCO
+N3P_J,N3P_J7,Humanobservation,2025-09-10,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,60,Percentagecover,Present,N55  42.056,W005 16.365,,,,WGS84,SCO
+N1P_A,N1P_A1,Humanobservation,2025-09-11,Plantae,Ericales,Calluna vulgaris,Common_heather,Species,1,90,Percentagecover,Present,N55  42.354,W005 16.577,,,,WGS84,SCO
+N1P_A,N1P_A2,Humanobservation,2025-09-11,Plantae,Ericales,Erica cinerea,Bell_heather,Species,1,10,Percentagecover,Present,N55  42.354,W005 16.577,,,,WGS84,SCO
+N1P_A,N1P_A3,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,80,Percentagecover,Present,N55  42.354,W005 16.577,,,,WGS84,SCO
+N1P_A,N1P_A4,Humanobservation,2025-09-11,Plantae,Lamiales,Teucrium scorodonia,Wood_sage,Species,1,5,Percentagecover,Present,N55  42.354,W005 16.577,,,,WGS84,SCO
+N1P_B,N1P_B1,Humanobservation,2025-09-11,Plantae,Ericales,Calluna vulgaris,Common_heather,Species,1,90,Percentagecover,Present,N55  42.342,W005 16.557,,,,WGS84,SCO
+N1P_B,N1P_B2,Humanobservation,2025-09-11,Plantae,Ericales,Erica cinerea,Bell_heather,Species,1,5,Percentagecover,Present,N55  42.342,W005 16.557,,,,WGS84,SCO
+N1P_B,N1P_B3,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,5,Percentagecover,Present,N55  42.342,W005 16.557,,,,WGS84,SCO
+N1P_B,N1P_B4,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55  42.342,W005 16.557,,,,WGS84,SCO
+N1P_B,N1P_B5,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,80,Percentagecover,Present,N55  42.342,W005 16.557,,,,WGS84,SCO
+N1P_B,N1P_B6,Humanobservation,2025-09-11,Plantae,Dicranales,Dicranum scoparium,Broom_fork-moss,Species,1,15,Percentagecover,Present,N55  42.342,W005 16.557,,,,WGS84,SCO
+N1P_C,N1P_C1,Humanobservation,2025-09-11,Plantae,Ericales,Calluna vulgaris,Common_heather,Species,1,55,Percentagecover,Present,N55  42.329,W005 16.537,,,,WGS84,SCO
+N1P_C,N1P_C2,Humanobservation,2025-09-11,Plantae,Ericales,Erica cinerea,Bell_heather,Species,1,35,Percentagecover,Present,N55  42.329,W005 16.537,,,,WGS84,SCO
+N1P_C,N1P_C3,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,10,Percentagecover,Present,N55  42.329,W005 16.537,,,,WGS84,SCO
+N1P_C,N1P_C4,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,90,Percentagecover,Present,N55  42.329,W005 16.537,,,,WGS84,SCO
+N1P_C,N1P_C5,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55  42.329,W005 16.537,,,,WGS84,SCO
+N1P_D,N1P_D1,Humanobservation,2025-09-11,Plantae,Ericales,Calluna vulgaris,Common_heather,Species,1,80,Percentagecover,Present,N55 42.318,W005 16.517,,,,WGS84,SCO
+N1P_D,N1P_D2,Humanobservation,2025-09-11,Plantae,Ericales,Erica cinerea,Bell_heather,Species,1,15,Percentagecover,Present,N55 42.318,W005 16.517,,,,WGS84,SCO
+N1P_D,N1P_D3,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,5,Percentagecover,Present,N55 42.318,W005 16.517,,,,WGS84,SCO
+N1P_D,N1P_D4,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55 42.318,W005 16.517,,,,WGS84,SCO
+N1P_D,N1P_D5,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,90,Percentagecover,Present,N55 42.318,W005 16.517,,,,WGS84,SCO
+N1P_E,N1P_E1,Humanobservation,2025-09-11,Plantae,Lamiales,Teucrium scorodonia,Wood_sage,Species,1,15,Percentagecover,Present,N55 42.307,W005 16.494,,,,WGS84,SCO
+N1P_E,N1P_E2,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,10,Percentagecover,Present,N55 42.307,W005 16.494,,,,WGS84,SCO
+N1P_E,N1P_E3,Humanobservation,2025-09-11,Plantae,Poales,Avenella flexuosa,Wavy_hair-grass,Species,1,80,Percentagecover,Present,N55 42.307,W005 16.494,,,,WGS84,SCO
+N1P_E,N1P_E4,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,10,Percentagecover,Present,N55 42.307,W005 16.494,,,,WGS84,SCO
+N1P_E,N1P_E5,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,20,Percentagecover,Present,N55 42.307,W005 16.494,,,,WGS84,SCO
+N1P_E,N1P_E6,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,80,Percentagecover,Present,N55 42.307,W005 16.494,,,,WGS84,SCO
+N1P_F,N1P_F1,Humanobservation,2025-09-11,Plantae,Digitalis,Digitalis purpurea,Common_foxglove,Species,1,5,Percentagecover,Present,N55 42.295,W005 16.471,,,,WGS84,SCO
+N1P_F,N1P_F2,Humanobservation,2025-09-11,Plantae,Ericales,Calluna vulgaris,Common_heather,Species,1,60,Percentagecover,Present,N55 42.295,W005 16.471,,,,WGS84,SCO
+N1P_F,N1P_F3,Humanobservation,2025-09-11,Plantae,Ericales,Erica cinerea,Bell_heather,Species,1,20,Percentagecover,Present,N55 42.295,W005 16.471,,,,WGS84,SCO
+N1P_F,N1P_F4,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,80,Percentagecover,Present,N55 42.295,W005 16.471,,,,WGS84,SCO
+N1P_F,N1P_F5,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,10,Percentagecover,Present,N55 42.295,W005 16.471,,,,WGS84,SCO
+N1P_F,N1P_F6,Humanobservation,2025-09-11,Plantae,Dicranales,Dicranum scoparium,Broom_fork-moss,Species,1,5,Percentagecover,Present,N55 42.295,W005 16.471,,,,WGS84,SCO
+N1P_F,N1P_F7,Humanobservation,2025-09-11,Plantae,Lamiales,Teucrium scorodonia,Wood_sage,Species,1,5,Percentagecover,Present,N55 42.295,W005 16.471,,,,WGS84,SCO
+N1P_F,N1P_F8,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,80,Percentagecover,Present,N55 42.295,W005 16.471,,,,WGS84,SCO
+N1P_F,N1P_F9,Humanobservation,2025-09-11,Plantae,Poales,Avenella flexuosa,Wavy_hair-grass,Species,1,5,Percentagecover,Present,N55 42.295,W005 16.471,,,,WGS84,SCO
+N1P_G,N1P_G1,Humanobservation,2025-09-11,Plantae,Ericales,Calluna vulgaris,Common_heather,Species,1,40,Percentagecover,Present,N55 42.281,W005 16.451,,,,WGS84,SCO
+N1P_G,N1P_G2,Humanobservation,2025-09-11,Plantae,Ericales,Erica cinerea,Bell_heather,Species,1,30,Percentagecover,Present,N55 42.281,W005 16.451,,,,WGS84,SCO
+N1P_G,N1P_G3,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,50,Percentagecover,Present,N55 42.281,W005 16.451,,,,WGS84,SCO
+N1P_G,N1P_G4,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,10,Percentagecover,Present,N55 42.281,W005 16.451,,,,WGS84,SCO
+N1P_G,N1P_G5,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,20,Percentagecover,Present,N55 42.281,W005 16.451,,,,WGS84,SCO
+N1P_G,N1P_G6,Humanobservation,2025-09-11,Plantae,Ranunculales,Ranunculus repens,Creeping_buttercup,Species,1,5,Percentagecover,Present,N55 42.281,W005 16.451,,,,WGS84,SCO
+N1P_H,N1P_H1,Humanobservation,2025-09-11,Plantae,Ericales,Erica cinerea,Bell_heather,Species,1,70,Percentagecover,Present,N55 42.268,W005 16.434,,,,WGS84,SCO
+N1P_H,N1P_H2,Humanobservation,2025-09-11,Plantae,Poales,Avenella flexuosa,Wavy_hair-grass,Species,1,20,Percentagecover,Present,N55 42.268,W005 16.434,,,,WGS84,SCO
+N1P_H,N1P_H3,Humanobservation,2025-09-11,Plantae,Poales,Juncus effusus,Soft_rush,Species,1,5,Percentagecover,Present,N55 42.268,W005 16.434,,,,WGS84,SCO
+N1P_H,N1P_H4,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,70,Percentagecover,Present,N55 42.268,W005 16.434,,,,WGS84,SCO
+N1P_H,N1P_H5,Humanobservation,2025-09-11,Plantae,Ranunculales,Ranunculus repens,Creeping_buttercup,Species,1,5,Percentagecover,Present,N55 42.268,W005 16.434,,,,WGS84,SCO
+N1P_H,N1P_H6,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,40,Percentagecover,Present,N55 42.268,W005 16.434,,,,WGS84,SCO
+N1P_I,N1P_I1,Humanobservation,2025-09-11,Plantae,Ericales,Calluna vulgaris,Common_heather,Species,1,95,Percentagecover,Present,N55 42.255,W005 16.414,,,,WGS84,SCO
+N1P_I,N1P_I2,Humanobservation,2025-09-11,Plantae,Ericales,Erica cinerea,Bell_heather,Species,1,5,Percentagecover,Present,N55 42.255,W005 16.414,,,,WGS84,SCO
+N1P_I,N1P_I3,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55 42.255,W005 16.414,,,,WGS84,SCO
+N1P_I,N1P_I4,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,90,Percentagecover,Present,N55 42.255,W005 16.414,,,,WGS84,SCO
+N1P_J,N1P_J1,Humanobservation,2025-09-11,Plantae,Ericales,Calluna vulgaris,Common_heather,Species,1,95,Percentagecover,Present,N55 42.242,W005 16.396,,,,WGS84,SCO
+N1P_J,N1P_J2,Humanobservation,2025-09-11,Plantae,Ericales,Erica cinerea,Bell_heather,Species,1,5,Percentagecover,Present,N55 42.242,W005 16.396,,,,WGS84,SCO
+N1P_J,N1P_J3,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55 42.242,W005 16.396,,,,WGS84,SCO
+N1P_J,N1P_J4,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,90,Percentagecover,Present,N55 42.242,W005 16.396,,,,WGS84,SCO
+N2P_J,N2P_J1,Humanobservation,2025-09-11,Plantae,Poales,Avenella flexuosa,Wavy_hair-grass,Species,1,33,Percentagecover,Present,N55 42.143,W005 16.419,,,,WGS84,SCO
+N2P_J,N2P_J2,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,60,Percentagecover,Present,N55 42.143,W005 16.419,,,,WGS84,SCO
+N2P_J,N2P_J3,Humanobservation,2025-09-11,Plantae,Caryophyllales,Cerastium fontanum,Little_mouse-ear_chickweed,Species,1,5,Percentagecover,Present,N55 42.143,W005 16.419,,,,WGS84,SCO
+N2P_J,N2P_J4,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,33,Percentagecover,Present,N55 42.143,W005 16.419,,,,WGS84,SCO
+N2P_J,N2P_J5,Humanobservation,2025-09-11,Plantae,Poales,Anthoxanthum odoratum,Sweet_vernal_grass,Species,1,20,Percentagecover,Present,N55 42.143,W005 16.419,,,,WGS84,SCO
+N2P_I,N2P_I1,Humanobservation,2025-09-11,Plantae,Poales,Avenella flexuosa,Wavy_hair-grass,Species,1,60,Percentagecover,Present,N55 42.161,W005 16.431,,,,WGS84,SCO
+N2P_I,N2P_I2,Humanobservation,2025-09-11,Plantae,Poales,Anthoxanthum odoratum,Sweet_vernal_grass,Species,1,40,Percentagecover,Present,N55 42.161,W005 16.431,,,,WGS84,SCO
+N2P_I,N2P_I3,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,80,Percentagecover,Present,N55 42.161,W005 16.431,,,,WGS84,SCO
+N2P_I,N2P_I4,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,90,Percentagecover,Present,N55 42.161,W005 16.431,,,,WGS84,SCO
+N2P_H,N2P_H1,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55 42.176,W005 16.448,,,,WGS84,SCO
+N2P_H,N2P_H2,Humanobservation,2025-09-11,Plantae,Poales,Avenella flexuosa,Wavy_hair-grass,Species,1,70,Percentagecover,Present,N55 42.176,W005 16.448,,,,WGS84,SCO
+N2P_H,N2P_H3,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,30,Percentagecover,Present,N55 42.176,W005 16.448,,,,WGS84,SCO
+N2P_H,N2P_H4,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,70,Percentagecover,Present,N55 42.176,W005 16.448,,,,WGS84,SCO
+N2P_H,N2P_H5,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,90,Percentagecover,Present,N55 42.176,W005 16.448,,,,WGS84,SCO
+N2P_G,N2P_G1,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,5,Percentagecover,Present,N55 42.185,W005 16.468,,,,WGS84,SCO
+N2P_G,N2P_G2,Humanobservation,2025-09-11,Plantae,Poales,Avenella flexuosa,Wavy_hair-grass,Species,1,70,Percentagecover,Present,N55 42.185,W005 16.468,,,,WGS84,SCO
+N2P_G,N2P_G3,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,80,Percentagecover,Present,N55 42.185,W005 16.468,,,,WGS84,SCO
+N2P_G,N2P_G4,Humanobservation,2025-09-11,Plantae,Poales,Anthoxanthum odoratum,Sweet_vernal_grass,Species,1,10,Percentagecover,Present,N55 42.185,W005 16.468,,,,WGS84,SCO
+N2P_F,N2P_F1,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,20,Percentagecover,Present,N55 42.198,W005 16.488,,,,WGS84,SCO
+N2P_F,N2P_F2,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,80,Percentagecover,Present,N55 42.198,W005 16.488,,,,WGS84,SCO
+N2P_F,N2P_F3,Humanobservation,2025-09-11,Plantae,Poales,Deschampsia cespitosa,Tufted_hair_grass,Species,1,80,Percentagecover,Present,N55 42.198,W005 16.488,,,,WGS84,SCO
+N2P_E,N2P_E1,Humanobservation,2025-09-11,Plantae,Ericales,Lysimachia nemorum,Yellow_pimpernel,Species,1,5,Percentagecover,Present,N55 42.207,W005 16.514,,,,WGS84,SCO
+N2P_E,N2P_E2,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,10,Percentagecover,Present,N55 42.207,W005 16.514,,,,WGS84,SCO
+N2P_E,N2P_E3,Humanobservation,2025-09-11,Plantae,Poales,Avenella flexuosa,Wavy_hair-grass,Species,1,90,Percentagecover,Present,N55 42.207,W005 16.514,,,,WGS84,SCO
+N2P_E,N2P_E4,Humanobservation,2025-09-11,Plantae,Malpighiales,Viola palustris,Marsh_violet,Species,1,5,Percentagecover,Present,N55 42.207,W005 16.514,,,,WGS84,SCO
+N2P_E,N2P_E5,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,60,Percentagecover,Present,N55 42.207,W005 16.514,,,,WGS84,SCO
+N2P_D,N2P_D1,Humanobservation,2025-09-11,Plantae,Rosales,Rubus fruticosus L.,European_blackberry,Species,1,10,Percentagecover,Present,N55 42.219,W005 16.534,,,,WGS84,SCO
+N2P_D,N2P_D2,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,10,Percentagecover,Present,N55 42.219,W005 16.534,,,,WGS84,SCO
+N2P_D,N2P_D3,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,70,Percentagecover,Present,N55 42.219,W005 16.534,,,,WGS84,SCO
+N2P_D,N2P_D4,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55 42.219,W005 16.534,,,,WGS84,SCO
+N2P_D,N2P_D5,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,80,Percentagecover,Present,N55 42.219,W005 16.534,,,,WGS84,SCO
+N2P_C,N2P_C1,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,20,Percentagecover,Present,N55 42.231,W005 16.551,,,,WGS84,SCO
+N2P_C,N2P_C2,Humanobservation,2025-09-11,Plantae,Poales,Avenella flexuosa,Wavy_hair-grass,Species,1,80,Percentagecover,Present,N55 42.231,W005 16.551,,,,WGS84,SCO
+N2P_C,N2P_C3,Humanobservation,2025-09-11,Plantae,Malpighiales,Viola palustris,Marsh_violet,Species,1,5,Percentagecover,Present,N55 42.231,W005 16.551,,,,WGS84,SCO
+N2P_C,N2P_C4,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,65,Percentagecover,Present,N55 42.231,W005 16.551,,,,WGS84,SCO
+N2P_B,N2P_B1,Humanobservation,2025-09-11,Plantae,Malpighiales,Hypericum perforatum,St._johns_wort,Species,1,5,Percentagecover,Present,N55 42.242,W005 16.577,,,,WGS84,SCO
+N2P_B,N2P_B2,Humanobservation,2025-09-11,Plantae,Poales,Deschampsia cespitosa,Tufted_hair_grass,Species,1,90,Percentagecover,Present,N55 42.242,W005 16.577,,,,WGS84,SCO
+N2P_B,N2P_B3,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,10,Percentagecover,Present,N55 42.242,W005 16.577,,,,WGS84,SCO
+N2P_B,N2P_B4,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,20,Percentagecover,Present,N55 42.242,W005 16.577,,,,WGS84,SCO
+N2P_A,N20_A1,Humanobservation,2025-09-11,Plantae,Poales,Anthoxanthum odoratum,Sweet_vernal_grass,Species,1,30,Percentagecover,Present,N55 42.257,W005 16.594,,,,WGS84,SCO
+N2P_A,N20_A2,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,5,Percentagecover,Present,N55 42.257,W005 16.594,,,,WGS84,SCO
+N2P_A,N20_A3,Humanobservation,2025-09-11,Plantae,Poales,Avenella flexuosa,Wavy_hair-grass,Species,1,40,Percentagecover,Present,N55 42.257,W005 16.594,,,,WGS84,SCO
+N2P_A,N20_A4,Humanobservation,2025-09-11,Plantae,Gentianales,Galium mollugo,Hedge_bedstraw,Species,1,60,Percentagecover,Present,N55 42.257,W005 16.594,,,,WGS84,SCO
+N2P_A,N20_A5,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidadelphus triquetrus,Big_shaggy-moss,Species,1,50,Percentagecover,Present,N55 42.257,W005 16.594,,,,WGS84,SCO
+N2P_A,N20_A6,Humanobservation,2025-09-11,Plantae,Oxalidales,Oxalis,Wood_sorrel,Genus,1,5,Percentagecover,Present,N55 42.257,W005 16.594,,,,WGS84,SCO
+N2P_A,N20_A7,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorshire_fog,Species,1,30,Percentagecover,Present,N55 42.257,W005 16.594,,,,WGS84,SCO
+S3P_A,S3P_A1,Humanobservation,2025-09-10,Plantae,Rosales,Urtica dioica,Common_nettle,Species,1,15,Percentagecover,Present,N55  42.027,W005  17.134,,,,WGS84,SCO
+S3P_A,S3P_A2,Humanobservation,2025-09-10,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,85,Percentagecover,Present,N55  42.027,W005  17.134,,,,WGS84,SCO
+S3P_A,S3P_A3,Humanobservation,2025-09-10,Plantae,Poales,Deschampsia cespitosa,Tufted_hairgrass,Species,1,15,Percentagecover,Present,N55  42.027,W005  17.134,,,,WGS84,SCO
+S3P_B,S3P_B1,Humanobservation,2025-09-10,Plantae,Fabales,Trifolium repens,White_clover,Species,1,85,Percentagecover,Present,N55  42.003,W005  17.094,,,,WGS84,SCO
+S3P_B,S3P_B2,Humanobservation,2025-09-10,Plantae,Poales,Agrostis capillaris,Common_bent,Species,1,3,Percentagecover,Present,N55  42.003,W005  17.094,,,,WGS84,SCO
+S3P_B,S3P_B3,Humanobservation,2025-09-10,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,60,Percentagecover,Present,N55  42.003,W005  17.094,,,,WGS84,SCO
+S3P_C,S3P_C1,Humanobservation,2025-09-10,Plantae,Poales,Agrostis capillaris,Common_bent,Species,1,8,Percentagecover,Present,N55  41.979,W005  17.065,,,,WGS84,SCO
+S3P_C,S3P_C2,Humanobservation,2025-09-10,Plantae,Fabales,Trifolium repens,White_clover,Species,1,20,Percentagecover,Present,N55  41.979,W005  17.065,,,,WGS84,SCO
+S3P_C,S3P_C3,Humanobservation,2025-09-10,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,80,Percentagecover,Present,N55  41.979,W005  17.065,,,,WGS84,SCO
+S3P_D,S3P_D1,Humanobservation,2025-09-10,Plantae,Poales,Juncus inflexus,Hard_rush,Species,1,40,Percentagecover,Present,N55  41.949,W005  17.042,,,,WGS84,SCO
+S3P_D,S3P_D2,Humanobservation,2025-09-10,Plantae,Poales,Juncus effusus,Soft_rush,Species,1,40,Percentagecover,Present,N55  41.949,W005  17.042,,,,WGS84,SCO
+S3P_E,S3P_E1,Humanobservation,2025-09-10,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,95,Percentagecover,Present,N55  41.922,W005  17.005,,,,WGS84,SCO
+S3P_E,S3P_E2,Humanobservation,2025-09-10,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,25,Percentagecover,Present,N55  41.922,W005  17.005,,,,WGS84,SCO
+S3P_F,S3P_F1,Humanobservation,2025-09-10,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,90,Percentagecover,Present,N55  41.902,W005  16.956,,,,WGS84,SCO
+S3P_F,S3P_F2,Humanobservation,2025-09-10,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,15,Percentagecover,Present,N55  41.902,W005  16.956,,,,WGS84,SCO
+S3P_F,S3P_F3,Humanobservation,2025-09-10,Plantae,Poales,Deschampsia cespitosa,Tufted_hairgrass,Species,1,20,Percentagecover,Present,N55  41.902,W005  16.956,,,,WGS84,SCO
+S3P_F,S3P_F4,Humanobservation,2025-09-10,Plantae,Poales,Holcus lanatus,Yorkshire_fog,Species,1,15,Percentagecover,Present,N55  41.902,W005  16.956,,,,WGS84,SCO
+S3P_G,S3P_G1,Humanobservation,2025-09-10,Plantae,Poales,Carex,Sedge,Genus,1,20,Percentagecover,Present,N55  41.907,W005  16.884,,,,WGS84,SCO
+S3P_G,S3P_G2,Humanobservation,2025-09-10,Plantae,Poales,Juncus effusus,Soft_rush,Species,1,30,Percentagecover,Present,N55  41.907,W005  16.884,,,,WGS84,SCO
+S3P_G,S3P_G3,Humanobservation,2025-09-10,Plantae,Poales,Deschampsia cespitosa,Tufted_hairgrass,Species,1,20,Percentagecover,Present,N55  41.907,W005  16.884,,,,WGS84,SCO
+S3P_H,S3P_H1,Humanobservation,2025-09-10,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,50,Percentagecover,Present,N55  41.862,W005  16.861,,,,WGS84,SCO
+S3P_H,S3P_H2,Humanobservation,2025-09-10,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,80,Percentagecover,Present,N55  41.862,W005  16.861,,,,WGS84,SCO
+S3P_H,S3P_H3,Humanobservation,2025-09-10,Plantae,Poales,Carex,Sedge,Genus,1,5,Percentagecover,Present,N55  41.862,W005  16.861,,,,WGS84,SCO
+S3P_I,S3P_I1,Humanobservation,2025-09-10,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,15,Percentagecover,Present,N55  41.843,W005  16.821,,,,WGS84,SCO
+S3P_I,S3P_I2,Humanobservation,2025-09-10,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,100,Percentagecover,Present,N55  41.843,W005  16.821,,,,WGS84,SCO
+S3P_J,S3P_J1,Humanobservation,2025-09-10,Plantae,Fagales,Myrica gale,Bog_myrtle,Species,1,10,Percentagecover,Present,N55  41.828,W005  16.810,,,,WGS84,SCO
+S3P_J,S3P_J2,Humanobservation,2025-09-10,Plantae,Sphagnales,Sphagnum,Sphagnum_moss,Genus,1,5,Percentagecover,Present,N55  41.828,W005  16.810,,,,WGS84,SCO
+S3P_J,S3P_J3,Humanobservation,2025-09-10,Plantae,Poales,Carex,Sedge,Genus,1,60,Percentagecover,Present,N55  41.828,W005  16.810,,,,WGS84,SCO
+S3P_J,S3P_J4,Humanobservation,2025-09-10,Plantae,Poales,Holcus lanatus,Yorkshire_fog,Species,1,3,Percentagecover,Present,N55  41.828,W005  16.810,,,,WGS84,SCO
+S1P_A,S1P_A1,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,100,Percentagecover,Present,N55  41.870,W005  17.278,,,,WGS84,SCO
+S1P_A,S1P_A2,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,30,Percentagecover,Present,N55  41.870,W005  17.278,,,,WGS84,SCO
+S1P_A,S1P_A3,Humanobservation,2025-09-11,Plantae,Gentianales,Galium saxatile,Heath_bedstraw,Species,1,40,Percentagecover,Present,N55  41.870,W005  17.278,,,,WGS84,SCO
+S1P_A,S1P_A4,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorkshire_fog,Species,1,5,Percentagecover,Present,N55  41.870,W005  17.278,,,,WGS84,SCO
+S1P_B,S1P_B1,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,100,Percentagecover,Present,N55  41.857,W005  17.272,,,,WGS84,SCO
+S1P_B,S1P_B2,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55  41.857,W005  17.272,,,,WGS84,SCO
+S1P_C,S1P_C1,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,80,Percentagecover,Present,N55  41.839,W005  17.280,,,,WGS84,SCO
+S1P_C,S1P_C2,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,100,Percentagecover,Present,N55  41.839,W005  17.280,,,,WGS84,SCO
+S1P_C,S1P_C3,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidiadelphus triquetrus,Big_shaggy-moss,Species,1,20,Percentagecover,Present,N55  41.839,W005  17.280,,,,WGS84,SCO
+S1P_D,S1P_D1,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,15,Percentagecover,Present,N55  41.825,W005  17.275,,,,WGS84,SCO
+S1P_D,S1P_D2,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,80,Percentagecover,Present,N55  41.825,W005  17.275,,,,WGS84,SCO
+S1P_D,S1P_D3,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55  41.825,W005  17.275,,,,WGS84,SCO
+S1P_E,S1P_E1,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,25,Percentagecover,Present,N55  41.809,W005  17.269,,,,WGS84,SCO
+S1P_E,S1P_E2,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,90,Percentagecover,Present,N55  41.809,W005  17.269,,,,WGS84,SCO
+S1P_E,S1P_E3,Humanobservation,2025-09-11,Plantae,Rosales,Urtica dioica,Common_nettle,Species,1,5,Percentagecover,Present,N55  41.809,W005  17.269,,,,WGS84,SCO
+S1P_F,S1P_F1,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,20,Percentagecover,Present,N55  41.793,W005  17.255,,,,WGS84,SCO
+S1P_F,S1P_F2,Humanobservation,2025-09-11,Plantae,Malpighiales,Viola palustris,Marsh_violet,Species,1,8,Percentagecover,Present,N55  41.793,W005  17.255,,,,WGS84,SCO
+S1P_F,S1P_F3,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,30,Percentagecover,Present,N55  41.793,W005  17.255,,,,WGS84,SCO
+S1P_G,S1P_G1,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,5,Percentagecover,Present,N55  41.778,W005  17.249,,,,WGS84,SCO
+S1P_G,S1P_G2,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55  41.778,W005  17.249,,,,WGS84,SCO
+S1P_G,S1P_G3,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,90,Percentagecover,Present,N55  41.778,W005  17.249,,,,WGS84,SCO
+S1P_H,S1P_H1,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,35,Percentagecover,Present,N55  41.763,W005  17.235,,,,WGS84,SCO
+S1P_H,S1P_H2,Humanobservation,2025-09-11,Plantae,Malpighiales,Viola palustris,Marsh_violet,Species,1,20,Percentagecover,Present,N55  41.763,W005  17.235,,,,WGS84,SCO
+S1P_H,S1P_H3,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,100,Percentagecover,Present,N55  41.763,W005  17.235,,,,WGS84,SCO
+S1P_H,S1P_H4,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,5,Percentagecover,Present,N55  41.763,W005  17.235,,,,WGS84,SCO
+S1P_H,S1P_H5,Humanobservation,2025-09-11,Plantae,Gentianales,Galium saxatile,Heath_bedstraw,Species,1,40,Percentagecover,Present,N55  41.763,W005  17.235,,,,WGS84,SCO
+S2P_A,S2P_A1,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,70,Percentagecover,Present,N55  41.935,W005  17.240,,,,WGS84,SCO
+S2P_A,S2P_A2,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,90,Percentagecover,Present,N55  41.935,W005  17.240,,,,WGS84,SCO
+S2P_B,S2P_B1,Humanobservation,2025-09-11,Plantae,Poales,Agrostis capillaris,Common_bent,Species,1,5,Percentagecover,Present,N55  41.924,W005  17.220,,,,WGS84,SCO
+S2P_B,S2P_B2,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,95,Percentagecover,Present,N55  41.924,W005  17.220,,,,WGS84,SCO
+S2P_B,S2P_B3,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorkshire_fog,Species,1,2,Percentagecover,Present,N55  41.924,W005  17.220,,,,WGS84,SCO
+S2P_C,S2P_C1,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,30,Percentagecover,Present,N55  41.914,W005  17.203,,,,WGS84,SCO
+S2P_C,S2P_C2,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,95,Percentagecover,Present,N55  41.914,W005  17.203,,,,WGS84,SCO
+S2P_C,S2P_C3,Humanobservation,2025-09-11,Plantae,Primulaceae,Primula vulgaris,Primrose,Species,1,10,Percentagecover,Present,N55  41.914,W005  17.203,,,,WGS84,SCO
+S2P_C,S2P_C4,Humanobservation,2025-09-11,Plantae,Gentianales,Galium saxatile,Heath_bedstraw,Species,1,35,Percentagecover,Present,N55  41.914,W005  17.203,,,,WGS84,SCO
+S2P_D,S2P_D1,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,100,Percentagecover,Present,N55  41.894,W005  17.194,,,,WGS84,SCO
+S2P_D,S2P_D2,Humanobservation,2025-09-11,Plantae,Hypnales,Rhytidiadelphus triquetrus,Big_shaggy_moss,Species,1,10,Percentagecover,Present,N55  41.894,W005  17.194,,,,WGS84,SCO
+S2P_D,S2P_D3,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,10,Percentagecover,Present,N55  41.894,W005  17.194,,,,WGS84,SCO
+S2P_D,S2P_D4,Humanobservation,2025-09-11,Plantae,Poales,Deschampsia cespitosa,Tufted_hairgrass,Species,1,5,Percentagecover,Present,N55  41.894,W005  17.194,,,,WGS84,SCO
+S2P_D,S2P_D5,Humanobservation,2025-09-11,Plantae,Gentianales,Galium saxatile,Heath_bedstraw,Species,1,10,Percentagecover,Present,N55  41.894,W005  17.194,,,,WGS84,SCO
+S2P_D,S2P_D6,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorkshire_fog,Species,1,5,Percentagecover,Present,N55  41.894,W005  17.194,,,,WGS84,SCO
+S2P_E,S2P_E1,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,90,Percentagecover,Present,N55  41.881,W005  17.177,,,,WGS84,SCO
+S2P_E,S2P_E2,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,3,Percentagecover,Present,N55  41.881,W005  17.177,,,,WGS84,SCO
+S2P_E,S2P_E3,Humanobservation,2025-09-11,Plantae,Poales,Agrostis capillaris,Common_bent,Species,1,5,Percentagecover,Present,N55  41.881,W005  17.177,,,,WGS84,SCO
+S2P_E,S2P_E4,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorkshire_fog,Species,1,5,Percentagecover,Present,N55  41.881,W005  17.177,,,,WGS84,SCO
+S2P_E,S2P_E5,Humanobservation,2025-09-11,Plantae,Gentianales,Galium saxatile,Heath_bedstraw,Species,1,25,Percentagecover,Present,N55  41.881,W005  17.177,,,,WGS84,SCO
+S2P_F,S2P_F1,Humanobservation,2025-09-11,Plantae,Polytrichales,Polytrichum commune,Common_haircap,Species,1,30,Percentagecover,Present,N55  41.867,W005  17.160,,,,WGS84,SCO
+S2P_F,S2P_F2,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,15,Percentagecover,Present,N55  41.867,W005  17.160,,,,WGS84,SCO
+S2P_F,S2P_F3,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,15,Percentagecover,Present,N55  41.867,W005  17.160,,,,WGS84,SCO
+S2P_F,S2P_F4,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,80,Percentagecover,Present,N55  41.867,W005  17.160,,,,WGS84,SCO
+S2P_F,S2P_F5,Humanobservation,2025-09-11,Plantae,Gentianales,Galium saxatile,Heath_bedstraw,Species,1,10,Percentagecover,Present,N55  41.867,W005  17.160,,,,WGS84,SCO
+S2P_G,S2P_G1,Humanobservation,2025-09-11,Plantae,Poales,Agrostis capillaris,Common_bent,Species,1,2,Percentagecover,Present,N55  41.857,W005  17.140,,,,WGS84,SCO
+S2P_G,S2P_G2,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorkshire_fog,Species,1,10,Percentagecover,Present,N55  41.857,W005  17.140,,,,WGS84,SCO
+S2P_G,S2P_G3,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,3,Percentagecover,Present,N55  41.857,W005  17.140,,,,WGS84,SCO
+S2P_G,S2P_G4,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,3,Percentagecover,Present,N55  41.857,W005  17.140,,,,WGS84,SCO
+S2P_G,S2P_G5,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,95,Percentagecover,Present,N55  41.857,W005  17.140,,,,WGS84,SCO
+S2P_H,S2P_H1,Humanobservation,2025-09-11,Plantae,Poales,Agrostis capillaris,Common_bent,Species,1,1,Percentagecover,Present,N55  41.843,W005  17.134,,,,WGS84,SCO
+S2P_H,S2P_H2,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorkshire_fog,Species,1,5,Percentagecover,Present,N55  41.843,W005  17.134,,,,WGS84,SCO
+S2P_H,S2P_H3,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,20,Percentagecover,Present,N55  41.843,W005  17.134,,,,WGS84,SCO
+S2P_H,S2P_H4,Humanobservation,2025-09-11,Plantae,Polypodiales,Pteridium aquilinum,Bracken,Species,1,5,Percentagecover,Present,N55  41.843,W005  17.134,,,,WGS84,SCO
+S2P_H,S2P_H5,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,95,Percentagecover,Present,N55  41.843,W005  17.134,,,,WGS84,SCO
+S2P_H,S2P_H6,Humanobservation,2025-09-11,Plantae,Poales,Carex,Sedge,Genus,1,15,Percentagecover,Present,N55  41.843,W005  17.134,,,,WGS84,SCO
+S2P_I,S2P_I1,Humanobservation,2025-09-11,Plantae,Polytrichales,Polytrichum commune,Common_haircap,Species,1,25,Percentagecover,Present,N55  41.828,W005  17.120,,,,WGS84,SCO
+S2P_I,S2P_I2,Humanobservation,2025-09-11,Plantae,Rosales,Potentilla erecta,Tormentil,Species,1,15,Percentagecover,Present,N55  41.828,W005  17.120,,,,WGS84,SCO
+S2P_I,S2P_I3,Humanobservation,2025-09-11,Plantae,Poales,Carex,Sedge,Genus,1,2,Percentagecover,Present,N55  41.828,W005  17.120,,,,WGS84,SCO
+S2P_I,S2P_I4,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorkshire_fog,Species,1,5,Percentagecover,Present,N55  41.828,W005  17.120,,,,WGS84,SCO
+S2P_I,S2P_I5,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,40,Percentagecover,Present,N55  41.828,W005  17.120,,,,WGS84,SCO
+S2P_J,S2P_J1,Humanobservation,2025-09-11,Plantae,Poales,Holcus lanatus,Yorkshire_fog,Species,1,5,Percentagecover,Present,N55  41.817,W005  17.100,,,,WGS84,SCO
+S2P_J,S2P_J2,Humanobservation,2025-09-11,Plantae,Poales,Deschampsia cespitosa,Tufted_hairgrass,Species,1,2,Percentagecover,Present,N55  41.817,W005  17.100,,,,WGS84,SCO
+S2P_J,S2P_J3,Humanobservation,2025-09-11,Plantae,Poales,Agrostis capillaris,Common_bent,Species,1,2,Percentagecover,Present,N55  41.817,W005  17.100,,,,WGS84,SCO
+S2P_J,S2P_J4,Humanobservation,2025-09-11,Plantae,Poales,Nardus stricta,Mat_grass,Species,1,100,Percentagecover,Present,N55  41.817,W005  17.100,,,,WGS84,SCO
+S2P_J,S2P_J5,Humanobservation,2025-09-11,Plantae,Poales,Carex,Sedge,Genus,1,5,Percentagecover,Present,N55  41.817,W005  17.100,,,,WGS84,SCO
+N3TIT_E,N3TIT_E1,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Aporophyla nigra ,Black_rustic ,Species ,3,3,Individual,Present ,N55 42.203,W005 16.683,,,,WGS84,GB
+N3TIT_E,N3TIT_E2,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Xestia xanthographa ,Square_spot_rustic ,Species ,3,3,Individual,Present ,N55 42.203,W005 16.683,,,,WGS84,GB
+N3TIT_E,N3TIT_E3,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Geometridae,Larval_geometrid,Species ,1,1,Individual,Present ,N55 42.203,W005 16.683,,,,WGS84,GB
+N3TIT_E,N3TIT_E4,Human_observation,2025-09-09,Animalia ,Diptera,Tipula oleracea ,Marsh_crane_fly ,Species ,2,2,Individual,Present ,N55 42.203,W005 16.683,,,,WGS84,GB
+N3TIT_E,N3TIT_E5,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Noctua pronuba ,Large_yellow_underwing,Species ,1,1,Individual,Present ,N55 42.203,W005 16.683,,,,WGS84,GB
+N3TIT_E,N3TIT_E6,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Paradiarsia glareosa ,Autumnal_rustic ,Species ,1,1,Individual,Present ,N55 42.203,W005 16.683,,,,WGS84,GB
+N3TIT_E,N3TIT_E7,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Xestia agathina ,Heath_rustic ,Species ,1,1,Individual,Present ,N55 42.203,W005 16.683,,,,WGS84,GB
+N3TIT_E,N3TIT_E8,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Blastobasis lacticolella,Large_pale_masoner ,Species ,1,1,Individual,Present ,N55 42.203,W005 16.683,,,,WGS84,GB
+N3TIT_E,N3TIT_E9,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Stilbia anomala,The_anomalous,Species ,1,1,Individual,Present ,N55 42.203,W005 16.683,,,,WGS84,GB
+S3TIT_E,S3TIT_E1,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Denticucullus pygmina,Small_wainscot,Species ,2,2,Individual,Present ,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIT_E,S3TIT_E2,Human_observation,2025-09-09,Animalia ,Diptera,Tipula paludosa,European_crane_fly,Species ,2,2,Individual,Present ,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIT_E,S3TIT_E3,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Xestia castanea,Neglected_rustic,Species ,1,1,Individual,Present ,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIT_E,S3TIT_E4,Human_observation,2025-09-09,Animalia ,Trichoptera ,Limnephilus lunatus,Caddis_fly,Species ,2,2,Individual,Present ,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIT_E,S3TIT_E5,Human_observation,2025-09-09,Animalia ,Lepidoptera ,Dysstroma truncata,Common_marbled_carpet,Species ,1,1,Individual,Present ,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIT_E,S3TIT_E6,Human_observation,2025-09-09,Animalia ,Ixodida,Ixodes ricinus,Sheep_tick ,Species ,1,1,Individual,Present ,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIT_E,S3TIT_E7,Human_observation,2025-09-09,Animalia ,Julida,Tachypodoiulus niger,White_legged_snake_millipede,Species ,1,1,Individual,Present ,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIT_A,S3TIT_A1,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Xestia xanthographa ,Square_spot_rustic ,Species ,12,12,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A2,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Colostygia pectinataria,Green_carpet_moth,Species ,3,3,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A3,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Xestia agathina ,Heath_rustic ,Species ,1,1,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A4,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Conistra vaccinii,Chestnut_moth,Species ,1,1,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A5,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Xanthia togata,Pink_barred_sallow_moth,Species ,1,1,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A6,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Denticucullus pygmina,Small_wainscot,Species ,1,1,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A7,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Clubiona Latreille,Leaf_curling_sac_spiders,Species ,1,1,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A8,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Dysstroma truncata,Common_marbled_carpet,Species ,1,1,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A9,Human_observation,2025-09-10,Animalia ,Diptera,Sciaridae,Dark_winged_fungus_gnats ,Family,1,1,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A10,Human_observation,2025-09-10,Animalia ,Trichoptera ,Limnephilus lunatus,Cinnamon_sedge_caddisfly,Species ,1,1,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A11,Human_observation,2025-09-10,Animalia ,Diptera,Tipula rufina,Crane_fly ,Species ,2,2,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A12,Human_observation,2025-09-10,Animalia ,Diptera,Tipula paludosa/oleracea,Crane_fly,Order,10,10,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A13,Human_observation,2025-09-10,Animalia ,Diptera,Tipula paludosa ,European_crane_fly,Species ,1,1,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIT_A,S3TIT_A14,Human_observation,2025-09-10,Animalia ,Diptera,Tipula oleracea ,Marsh_crane_fly ,Species ,1,1,Individual,Present ,N55 42.027,W005 17.134,,,,WGS84,GB
+N3TIT_A,N3TIT_A1,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Standfussiana lucernea,Northern_rustic ,Species ,1,1,Individual,Present ,N55 42.253,W005 16.755,,,,WGS84,GB
+N3TIT_A,N3TIT_A2,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Denticucullus pygmina,Small_wainscot,Species ,2,2,Individual,Present ,N55 42.253,W005 16.755,,,,WGS84,GB
+N3TIT_A,N3TIT_A3,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Xestia xanthographa ,Square_spot_rustic ,Species ,2,2,Individual,Present ,N55 42.253,W005 16.755,,,,WGS84,GB
+N3TIT_A,N3TIT_A4,Human_observation,2025-09-10,Animalia ,Diptera,Limoniidae,Crane_fly ,Family,3,3,Individual,Present ,N55 42.253,W005 16.755,,,,WGS84,GB
+N3TIT_A,N3TIT_A5,Human_observation,2025-09-10,Animalia ,Araneae,Linyphiidae,Money_spider,Family ,1,1,Individual,Present ,N55 42.253,W005 16.755,,,,WGS84,GB
+N3TIT_A,N3TIT_A6,Human_observation,2025-09-10,Animalia ,Hemiptera,Rhopalidae,Scentless_plant_bugs,Family,1,1,Individual,Present ,N55 42.253,W005 16.755,,,,WGS84,GB
+N3TIT_A,N3TIT_A7,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Agrius convolvuli,Convolvulus_hawk_moth,Species ,1,1,Individual,Present ,N55 42.253,W005 16.755,,,,WGS84,GB
+N3TIT_A,N3TIT_A8,Human_observation,2025-09-10,Animalia ,Lepidoptera ,Tipulidae,Crane_fly ,Family,1,1,Individual,Present ,N55 42.253,W005 16.755,,,,WGS84,GB
+N3TIT_A,N3TIT_A9,Human_observation,2025-09-10,Animalia ,Hymenoptera,Ophion sp,Parasitic_wasps,Genus ,2,2,Individual,Present ,N55 42.253,W005 16.755,,,,WGS84,GB
+N3TIT_A,N3TIT_A10,Human_observation,2025-09-10,Animalia ,Trichoptera ,Limnephilus lunatus,Cinnamon_sedge_caddisfly,Species ,1,1,Individual,Present ,N55 42.253,W005 16.755,,,,WGS84,GB
+S3TIT_J,S3TIT_J1,Human_observation,2025-09-11,Animalia ,Trichoptera ,Trichoptera,Caddis_fly,Order,1,1,Individual,Present ,N55 41.828,W005 16.810,,,,WGS84,GB
+S3TIT_J,S3TIT_J2,Human_observation,2025-09-11,Animalia ,Hymenoptera,Cardrina morpheus,Mottled_rustic,Species,1,1,Individual,Present ,N55 41.828,W005 16.810,,,,WGS84,GB
+S3TIT_J,S3TIT_J3,Human_observation,2025-09-11,Animalia ,Diptera,Culicidae,Mosquito,Family,4,4,Individual,Present ,N55 41.828,W005 16.810,,,,WGS84,GB
+S3TIT_J,S3TIT_J4,Human_observation,2025-09-11,Animalia ,Diptera,Tipuloidea,Crane_fly ,Super_family,1,1,Individual,Present ,N55 41.828,W005 16.810,,,,WGS84,GB
+N3TIT_J,N3TIT_J1,Human_observation,2025-09-11,Animalia ,Lepidoptera ,Aporophyla nigra ,Black_rustic ,Species,1,1,Individual,Present ,N55 42.061,W005 16.371,,,,WGS84,GB
+N3TIT_J,N3TIT_J2,Human_observation,2025-09-11,Animalia ,Lepidoptera ,Xestia xanthographa ,Square_spot_rustic ,Species,5,5,Individual,Present ,N55 42.061,W005 16.371,,,,WGS84,GB
+N3TIT_J,N3TIT_J3,Human_observation,2025-09-11,Animalia ,Trichoptera ,Trichoptera,Caddis_fly,Order,1,1,Individual,Present ,N55 42.061,W005 16.371,,,,WGS84,GB
+N3TIT_J,N3TIT_J4,Human_observation,2025-09-11,Animalia ,Lepidoptera ,Euxoa nigricans,Garden_dart,Species,1,1,Individual,Present ,N55 42.061,W005 16.371,,,,WGS84,GB
+N3TIT_J,N3TIT_J5,Human_observation,2025-09-11,Animalia ,Diptera,Tipuloidea,Crane_fly ,Super_family,4,4,Individual,Present ,N55 42.061,W005 16.371,,,,WGS84,GB
+N3TIT_J,N3TIT_J6,Human_observation,2025-09-11,Animalia ,Diptera,Culicidae,Mosquito,Family ,1,1,Individual,Present ,N55 42.061,W005 16.371,,,,WGS84,GB
+N3TIT_J,N3TIT_J7,Human_observation,2025-09-11,Animalia ,Diptera,Diptera ,Fly,Family,1,1,Individual,Present ,N55 42.061,W005 16.371,,,,WGS84,GB
+N3TIT_J,N3TIT_J8,Human_observation,2025-09-11,Animalia ,Lepidoptera ,Colostygia pectinataria,Green_carpet_moth,Species,1,1,Individual,Present ,N55 42.061,W005 16.371,,,,WGS84,GB
+N3TIT_J,N3TIT_J9,Human_observation,2025-09-11,Animalia ,Lepidoptera ,Cardrina morpheus,Mottled_rustic,Species,1,1,Individual,Present ,N55 42.061,W005 16.371,,,,,
+N1TIN_F,N1TIN_F1,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 42.295,W005 16.471,,,,WGS84,GB
+N2TIN_D,N2TIN_D1,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True_bug,Order,5,5,Individual,Present,N55 42.219,W005 16.534,,,,WGS84,GB
+N2TIN_D,N2TIN_D2,Human_observation ,2025-09-11,Animalia,Diptera,Diptera,Fly,Order,2,2,Individual,Present,N55 42.219,W005 16.534,,,,WGS84,GB
+N2TIN_F,N2TIN_F1,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 42.198,W005 16.488,,,,WGS84,GB
+N2TIN_F,N2TIN_F2,Human_observation ,2025-09-11,Animalia,Hemiptera,Aphididae,Aphid,Family,1,1,Individual,Present,N55 42.198,W005 16.488,,,,WGS84,GB
+N2TIN_F,N2TIN_F3,Human_observation ,2025-09-11,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 42.198,W005 16.488,,,,WGS84,GB
+N2TIN_G,N2TIN_G1,Human_observation ,2025-09-11,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 42.185,W005 16.468,,,,WGS84,GB
+N2TIN_I,N2TIN_I1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,6,6,Individual,Present,N55 42.161,W005 16.431,,,,WGS84,GB
+N2TIP_J,N2TIP_J1,Human_observation ,2025-09-10,Animalia,Coleoptera,Calathus fuscipes,Ground Beetle,Family,7,7,Individual,Present,N55 42.143,W005 16.419,,,,WGS84,GB
+S1TIN_A,S1TIN_A1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,2,2,Individual,Present,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_A,S1TIN_A2,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,4,4,Individual,Present,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_A,S1TIN_A3,Human_observation ,2025-09-11,Animalia,Coleoptera,Geotrupes stercorarius,Dor_beetle,Species,1,1,Individual,Present,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_A,S1TIN_A4,Human_observation ,2025-09-11,Animalia,Lepidoptera,Lepidoptera,Caterpillar,Order,1,1,Individual,Present,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_A,S1TIN_A5,Human_observation ,2025-09-11,Animalia,Lepidoptera,Euthrix potatoria,Drinker_moth,Species,1,1,Individual,Present,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_B,S1TIN_B1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,20,20,Individual,Present,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_B,S1TIN_B2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_B,S1TIN_B3,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_B,S1TIN_B4,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_B,S1TIN_B5,Human_observation ,2025-09-11,Animalia,Hemiptera,Aphididae,Aphid,Family,1,1,Individual,Present,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_C,S1TIN_C1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.839,W005 17.280,,,,WGS84,GB
+S1TIN_C,S1TIN_C2,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,1,1,Individual,Present,N55 41.839,W005 17.280,,,,WGS84,GB
+S1TIN_C,S1TIN_C3,Human_observation ,2025-09-11,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 41.839,W005 17.280,,,,WGS84,GB
+S1TIN_C,S1TIN_C4,Human_observation ,2025-09-11,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 41.839,W005 17.280,,,,WGS84,GB
+S1TIN_D,S1TIN_D1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.825,W005 17.275,,,,WGS84,GB
+S1TIN_D,S1TIN_D2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.825,W005 17.275,,,,WGS84,GB
+S1TIN_E,S1TIN_E1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,1,1,Individual,Present,N55 41.809,W005 17.269,,,,WGS84,GB
+S1TIN_F,S1TIN_F1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,4,4,Individual,Present,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_F,S1TIN_F2,Human_observation ,2025-09-11,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_F,S1TIN_F3,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_F,S1TIN_F4,Human_observation ,2025-09-11,Animalia,Thysanoptera,Thysanoptera,Thrip,Order,1,1,Individual,Present,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_F,S1TIN_F5,Human_observation ,2025-09-11,Animalia,Diptera,Tipuloidea,Crane_fly,Family,1,1,Individual,Present,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_G,S1TIN_G1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,2,2,Individual,Present,N55 41.778,W005 17.249,,,,WGS84,GB
+S1TIN_H,S1TIN_H1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,3,3,Individual,Present,N55 41.763,W005 17.235,,,,WGS84,GB
+S1TIN_H,S1TIN_H2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.763,W005 17.235,,,,WGS84,GB
+S1TIN_H,S1TIN_H3,Human_observation ,2025-09-11,Animalia,Homoptera,Homoptera,Insect,Order,2,2,Individual,Present,N55 41.763,W005 17.235,,,,WGS84,GB
+S1TIN_H,S1TIN_H4,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 41.763,W005 17.235,,,,WGS84,GB
+S2TIN_A,S2TIN_A1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,11,11,Individual,Present,N55 41.935,W005 17.240,,,,WGS84,GB
+S2TIN_A,S2TIN_A2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.935,W005 17.240,,,,WGS84,GB
+S2TIN_B,S2TIN_B1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,13,13,Individual,Present,N55 41.924,W005 17.220,,,,WGS84,GB
+S2TIN_B,S2TIN_B2,Human_observation ,2025-09-11,Animalia,Homoptera,Homoptera,Insect,Order,1,1,Individual,Present,N55 41.924,W005 17.220,,,,WGS84,GB
+S2TIN_B,S2TIN_B3,Human_observation ,2025-09-11,Animalia,Lepidoptera,Lepidoptera,Caterpillar,Order,2,2,Individual,Present,N55 41.924,W005 17.220,,,,WGS84,GB
+S2TIN_C,S2TIN_C1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,19,19,Individual,Present,N55 41.914,W005 17.203,,,,WGS84,GB
+S2TIN_C,S2TIN_C2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.914,W005 17.203,,,,WGS84,GB
+S2TIN_D,S2TIN_D1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,48,48,Individual,Present,N55 41.894,W005 17.194,,,,WGS84,GB
+S2TIN_D,S2TIN_D2,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 41.894,W005 17.194,,,,WGS84,GB
+S2TIN_D,S2TIN_D3,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 41.894,W005 17.194,,,,WGS84,GB
+S2TIN_E,S2TIN_E1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,25,25,Individual,Present,N55 41.881,W005 17.177,,,,WGS84,GB
+S2TIN_E,S2TIN_E2,Human_observation ,2025-09-11,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.881,W005 17.177,,,,WGS84,GB
+S2TIN_E,S2TIN_E3,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 41.881,W005 17.177,,,,WGS84,GB
+S2TIN_E,S2TIN_E4,Human_observation ,2025-09-11,Animalia,Homoptera,Homoptera,Insect,Order,4,4,Individual,Present,N55 41.881,W005 17.177,,,,WGS84,GB
+S2TIN_F,S2TIN_F1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.867,W005 17.160,,,,WGS84,GB
+S2TIN_G,S2TIN_G1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,2,2,Individual,Present,N55 41.857,W005 17.140,,,,WGS84,GB
+S2TIN_G,S2TIN_G2,Human_observation ,2025-09-11,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.857,W005 17.140,,,,WGS84,GB
+S2TIN_H,S2TIN_H1,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 41.843,W005 17.134,,,,WGS84,GB
+S2TIN_H,S2TIN_H2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,3,3,Individual,Present,N55 41.843,W005 17.134,,,,WGS84,GB
+S2TIN_I,S2TIN_I1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,5,5,Individual,Present,N55 41.828,W005 17.120,,,,WGS84,GB
+S2TIN_J,S2TIN_J1,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 41.817,W005 17.100,,,,WGS84,GB
+S2TIN_J,S2TIN_J2,Human_observation ,2025-09-11,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.817,W005 17.100,,,,WGS84,GB
+S2TIP_C,S2TIP_C1,Human_observation ,2025-09-10,Animalia,Coleoptera,Anoplotrupes stercorosus,Dor_beetle,Species,1,1,Individual,Present,N55 41.914,W005 17.203,,,,WGS84,GB
+S3TIN_A,S3TIN_A1,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,2,2,Individual,Present,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIN_A,S3TIN_A2,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,2,2,Individual,Present,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIN_A,S3TIN_A3,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIN_B,S3TIN_B1,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,3,3,Individual,Present,N55 42.003,W005 17.094,,,,WGS84,GB
+S3TIN_B,S3TIN_B2,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 42.003,W005 17.094,,,,WGS84,GB
+S3TIN_B,S3TIN_B3,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,2,2,Individual,Present,N55 42.003,W005 17.094,,,,WGS84,GB
+S3TIN_B,S3TIN_B4,Human_observation ,2025-09-10,Animalia,Araneae,Linyphiidae,Money_spider,Family,1,1,Individual,Present,N55 42.003,W005 17.094,,,,WGS84,GB
+S3TIN_C,S3TIN_C1,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,2,2,Individual,Present,N55 41.979,W005 17.065,,,,WGS84,GB
+S3TIN_C,S3TIN_C2,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.979,W005 17.065,,,,WGS84,GB
+S3TIN_C,S3TIN_C3,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,2,2,Individual,Present,N55 41.979,W005 17.065,,,,WGS84,GB
+S3TIN_C,S3TIN_C4,Human_observation ,2025-09-10,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 41.979,W005 17.065,,,,WGS84,GB
+S3TIN_D,S3TIN_D1,Human_observation ,2025-09-10,Animalia,Hemiptera,Hemiptera,True_bug,Order,1,1,Individual,Present,N55 41.949,W005 17.042,,,,WGS84,GB
+S3TIN_D,S3TIN_D2,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.949,W005 17.042,,,,WGS84,GB
+S3TIN_D,S3TIN_D3,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,2,2,Individual,Present,N55 41.949,W005 17.042,,,,WGS84,GB
+S3TIN_E,S3TIN_E1,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,4,4,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_E,S3TIN_E2,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_E,S3TIN_E3,Human_observation ,2025-09-10,Animalia,Homoptera,Homoptera,Insect,Order,3,3,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_E,S3TIN_E4,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_E,S3TIN_E5,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_E,S3TIN_E6,Human_observation ,2025-09-10,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_F,S3TIN_F1,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,1,1,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_F,S3TIN_F2,Human_observation ,2025-09-10,Animalia,Homoptera,Homoptera,Insect,Order,2,2,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_F,S3TIN_F3,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,2,2,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_F,S3TIN_F4,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_F,S3TIN_F5,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_F,S3TIN_F6,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,3,3,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_G,S3TIN_G1,Human_observation ,2025-09-10,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_G,S3TIN_G2,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,2,2,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_G,S3TIN_G3,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,2,2,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_G,S3TIN_G4,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_G,S3TIN_G5,Human_observation ,2025-09-10,Animalia,Homoptera,Homoptera,Insect,Order,2,2,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_G,S3TIN_G6,Human_observation ,2025-09-10,Animalia,Araneae,Leiobunum rotundum,Harverstman_spider,Species,1,1,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_H,S3TIN_H1,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.862,W005 16.861,,,,WGS84,GB
+S3TIN_H,S3TIN_H2,Human_observation ,2025-09-10,Animalia,Homoptera,Homoptera,Insect,Order,1,1,Individual,Present,N55 41.862,W005 16.861,,,,WGS84,GB
+S3TIN_I,S3TIN_I1,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,2,2,Individual,Present,N55 41.843,W005 16.821,,,,WGS84,GB
+S3TIN_I,S3TIN_I2,Human_observation ,2025-09-10,Animalia,Araneae,Linyphiidae,Money_spider,Family,2,2,Individual,Present,N55 41.843,W005 16.821,,,,WGS84,GB
+S3TIN_I,S3TIN_I3,Human_observation ,2025-09-10,Animalia,Lepidoptera,Lepidoptera,Caterpillar,Order,1,1,Individual,Present,N55 41.843,W005 16.821,,,,WGS84,GB
+S3TIN_J,S3TIN_J1,Human_observation ,2025-09-10,Animalia,Homoptera,Homoptera,Insect,Order,3,3,Individual,Present,N55 41.828,W005 16.810,,,,WGS84,GB
+S3TIP_E,S3TIP_E1,Human_observation ,2025-09-09,Animalia,Araneae,Araneae,Spider,Order,1,1,Indivdidual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIP_E,S3TIP_E2,Human_observation ,2025-09-09,Animalia,Homoptera,Homoptera,Insect,Order,1,1,Indivdidual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIP_E,S3TIP_E3,Human_observation ,2025-09-09,Animalia,Poduromorpha,Poduromorpha,Springtail,Order,1,1,Indivdidual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIP_I,S3TIP_I1,Human_observation ,2025-09-09,Animalia,Coleoptera,Pterostichus niger,Woodland_ground_beetle,Order,1,1,Indivdidual,Present,N55 41.843,W005 16.821,,,,WGS84,GB
+S3TIP_J,S3TIP_J1,Human_observation ,2025-09-09,Animalia,Ixodida,Ixodoidea,Tick,Family,1,1,Indivdidual,Present,N55 41.828,W005 16.810,,,,WGS84,GB

@@ -1,0 +1,36 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,taxonRank,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,Latitude,Longitude,BMWPscore,Endlatitude,Endlongitude,geodeticDatum,countryCode
+ND4FI_A,ND4FI_W1,Humanobservation,2025-09-11,Animalia,Plecoptera,,Stonefly larvae,Order,4,4,Individuals,Present,N55 42.444,W005 17.068,7,,,WGS84,GB
+ND4FI_A,ND4FI_W2,Humanobservation,2025-09-11,Animalia,Ephemeroptera,,Mayfly larvae,Order,2,2,Individuals,Present,N55 42.444,W005 17.068,10,,,WGS84,GB
+ND4FI_A,ND4FI_W3,Humanobservation,2025-09-11,Animalia,Coleoptera,,Waterbeetle ,Order,1,1,Individuals,Present,N55 42.444,W005 17.068,5,,,WGS84,GB
+ND4FI_A,ND4FI_W4,Humanobservation,2025-09-11,Animalia,Oligochaeta,,Worm,Order,2,2,Individuals,Present,N55 42.444,W005 17.068,1,,,WGS84,GB
+ND4FI_B,ND4FI_E1,Humanobservation,2025-09-12,Animalia,Odonata,anisoptera,Dragonfly larvae,Family,1,1,Individuals,Present,N55 42.174,W005 15.983,,,,WGS84,GB
+ND4FI_B,ND4FI_E2,Humanobservation,2025-09-12,Animalia,Oligochaeta,,Worm,Order,3,3,Individuals,Present,N55 42.174,W005 15.983,1,,,WGS84,GB
+ND4FI_B,ND4FI_E3,Humanobservation,2025-09-12,Animalia,Plecoptera,,Stonefly larvae,Order,1,1,Individuals,Present,N55 42.174,W005 15.983,7,,,WGS84,GB
+ND4FI_B,ND4FI_E4,Humanobservation,2025-09-12,Animalia,Ephemeroptera,,Mayfly larvae,Order,3,3,Individuals,Present,N55 42.174,W005 15.983,10,,,WGS84,GB
+ND4FI_B,ND4FI_E5,Humanobservation,2025-09-12,Animalia,Coleoptera,,Waterbeetle larvae,Order,1,1,Individuals,Present,N55 42.174,W005 15.983,5,,,WGS84,GB
+ND4FI_B,ND4FI_E6,Humanobservation,2025-09-12,Animalia,Trichoptera,,Cased caddisfly larvae,Order,2,2,Individuals,Present,N55 42.174,W005 15.983,"5, 10",,,WGS84,GB
+NU3FI_A,NU4FI_W1,Humanobservation,2025-09-11,Animalia,Trichoptera,Hydropsychidae,Caddisfly larvae,Family,1,1,Individuals,Present,N55 42.464,W005 17.036,5,,,WGS84,GB
+NU3FI_A,NU4FI_W2,Humanobservation,2025-09-11,Animalia,Coleoptera,,Waterbeetle ,Order,3,3,Individuals,Present,N55 42.464,W005 17.036,5,,,WGS84,GB
+NU3FI_A,NU4FI_W3,Humanobservation,2025-09-11,Animalia,Oligochaeta,,Worm,Order,1,1,Individuals,Present,N55 42.464,W005 17.036,1,,,WGS84,GB
+NU3FI_A,NU4FI_W4,Humanobservation,2025-09-11,Animalia,Trichoptera,Philopotamidae,Caseless caddisfly larvae,Family,4,4,Individuals,Present,N55 42.464,W005 17.036,"5,10",,,WGS84,GB
+NU3FI_A,NU4FI_W5,Humanobservation,2025-09-11,Animalia,Trichoptera,,Cased caddisfly larvae,Order,3,3,Individuals,Present,N55 42.464,W005 17.036,"5,10",,,WGS84,GB
+NU3FI_A,NU4FI_W6,Humanobservation,2025-09-11,Animalia,Odonata,anisoptera,Dragonfly larvae,Family,1,1,Individuals,Present,N55 42.464 ,W005 17.036,,,,WGS84,GB
+NU3FI_B,NU4FI_E1,Humanobservation,2025-09-12,Animalia,Plecoptera,,Stonefly larvae,Order,2,2,Individuals,Present,N55 42.261,W005 16.032,7,,,WGS84,GB
+NU3FI_B,NU4FI_E2,Humanobservation,2025-09-12,Animalia,Ephemeroptera,,Mayfly larvae,Order,1,1,Individuals,Present,N55 42.261,W005 16.032,10,,,WGS84,GB
+NU3FI_B,NU4FI_E3,Humanobservation,2025-09-12,Animalia,Oligochaeta,,Worm,Order,1,1,Individuals,Present,N55 42.261,W005 16.032,1,,,WGS84,GB
+SD4FI_A,D4FI_A1,Humanobservation,2025-09-10,Animalia,Oligochaeta,,Worm,Order,1,1,Individuals,Present,N55 41.854,W005 16.439,1,,,WGS84,GB
+SD4FI_A,D4FI_A2,Humanobservation,2025-09-10,Animalia,Diptera,,Blackfly larvae,Order,1,1,Individuals,Present,N55 41.854,W005 16.439,5,,,WGS84,GB
+SD4FI_B,SD4FI_B1,Humanobservation,2025-09-11,Animalia,Coleoptera,dytiscidae,Diving beetle,Family,1,1,Individuals,Present,N55 42.261,W005 16.032,5,,,WGS84,GB
+SD4FI_B,SD4FI_B2,Humanobservation,2025-09-11,Animalia,Hemiptera,Corixidae,Lesser Water Boatman,Family,4,4,Individuals,Present,N55 41.802,W005 16.876,,,,WGS84,GB
+SD4FI_B,SD4FI_B3,Humanobservation,2025-09-11,Animalia,Odonata,zygoptera ,Damselfly larvae,Suborder,2,2,Individuals,Present,N55 41.802,W005 16.876,,,,WGS84,GB
+SD4FI_B,SD4FI_B4,Humanobservation,2025-09-11,Animalia,Odonata,anisoptera,Dragonfly larvae,Infraorder,3,3,Individuals,Present,N55 41.802,W005 16.876,,,,WGS84,GB
+SD4FI_B,SD4FI_B5,Humanobservation,2025-09-11,Animalia,Hemiptera,Notonectidae,Greater Water Boatman,Family,2,2,Individuals,Present,N55 41.802,W005 16.876,,,,WGS84,GB
+SU4FI_A,SU4FI_A1,Humanobservation,2025-09-10,Animalia,Plecoptera,,Stonefly larvae,Order,8,8,Individuals,Present,N55 41.828,W005 16.382,7,,,WGS84,GB
+SU4FI_A,SU4FI_A2,Humanobservation,2025-09-10,Animalia,Coleoptera,,Waterbeetle larvae ,Order,1,1,Individuals,Present,N55 41.829,W005 16.383,5,,,WGS84,GB
+SU4FI_A,SU4FI_A3,Humanobservation,2025-09-10,Animalia,Coleoptera,,Waterbeetle ,Order,1,1,Individuals,Present,N55 41.830,W005 16.384,5,,,WGS84,GB
+SU4FI_A,SU4F1_A4,Humanobservation,2025-09-10,Animalia,Trichoptera,,Caddisfly larvae,Order,1,1,Individuals,Present,N55 41.831,W005 16.385,"5, 10",,,WGS84,GB
+SU4FI_A,SU4F1_A5,Humanobservation,2025-09-10,Animalia,Ephemeropltera ,,Mayfly larvae,Order,2,2,Individuals,Present,N55 41.832,W005 16.386,10,,,WGS84,GB
+SU4FI_B,SU4FI_B1,Humanobservation,2025-09-11,Animalia,Ephemeroptera,,Mayfly larvae,Order,2,2,Individuals,Present,,,10,,,WGS84,GB
+SU4FI_B,SU4FI_B2,Humanobservation,2025-09-11,Animalia,Plecoptera,,Stonefly larvae,Order,1,1,Individuals,Present,,,7,,,WGS84,GB
+SU4FI_B,SU4FI_B3,Humanobservation,2025-09-11,Animalia,Trichoptera,,Caddisfly case,Order,1,1,Individuals,Present,,,"5, 10",,,WGS84,GB
+SU4FI_B,SU4FI_B4,Humanobservation,2025-09-11,Animalia,Diptera,simuliidae,Blackfly larvae,Family,1,1,Individuals,Present,,,1,,,WGS84,GB

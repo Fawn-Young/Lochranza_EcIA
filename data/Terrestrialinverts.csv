@@ -1,0 +1,103 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,taxonRank,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,Latitude,Longitude,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode
+N1TIN_F,N1TIN_F1,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True bug,Order,1,1,Individual,Present,N55 42.295,W005 16.471,,,,WGS84,GB
+N2TIN_D,N2TIN_D1,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True bug,Order,5,5,Individual,Present,N55 42.219,W005 16.534,,,,WGS84,GB
+N2TIN_D,N2TIN_D2,Human_observation ,2025-09-11,Animalia,Diptera,Diptera,Fly,Order,2,2,Individual,Present,N55 42.219,W005 16.534,,,,WGS84,GB
+N2TIN_F,N2TIN_F1,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True bug,Order,1,1,Individual,Present,N55 42.198,W005 16.488,,,,WGS84,GB
+N2TIN_F,N2TIN_F2,Human_observation ,2025-09-11,Animalia,Hemiptera,Aphididae,Aphid,Family,1,1,Individual,Present,N55 42.198,W005 16.488,,,,WGS84,GB
+N2TIN_F,N2TIN_F3,Human_observation ,2025-09-11,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 42.198,W005 16.488,,,,WGS84,GB
+N2TIN_G,N2TIN_G1,Human_observation ,2025-09-11,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 42.185,W005 16.468,,,,WGS84,GB
+N2TIN_I,N2TIN_I1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,6,6,Individual,Present,N55 42.161,W005 16.431,,,,WGS84,GB
+N2TIP_J,N2TIP_J1,Human_observation ,2025-09-10,Animalia,Coleoptera,Calathus fuscipes,Ground Beetle,Family,7,7,Individual,Present,N55 42.143,W005 16.419,,,,WGS84,GB
+S1TIN_A,S1TIN_A1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,2,2,Individual,Present,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_A,S1TIN_A2,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,4,4,Individual,Present,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_A,S1TIN_A3,Human_observation ,2025-09-11,Animalia,Coleoptera,Geotrupes stercorarius,Dor beetle,Species,1,1,Individual,Present,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_A,S1TIN_A4,Human_observation ,2025-09-11,Animalia,Lepidoptera,Lepidoptera,Caterpillar,Order,1,1,Individual,Present,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_A,S1TIN_A5,Human_observation ,2025-09-11,Animalia,Lepidoptera,Euthrix potatoria,Drinker moth,Species,1,1,Individual,Present,N55 41.870,W005 17.278,,,,WGS84,GB
+S1TIN_B,S1TIN_B1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,20,20,Individual,Present,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_B,S1TIN_B2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_B,S1TIN_B3,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_B,S1TIN_B4,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_B,S1TIN_B5,Human_observation ,2025-09-11,Animalia,Hemiptera,Aphididae,Aphid,Family,1,1,Individual,Present,N55 41.857,W005 17.272,,,,WGS84,GB
+S1TIN_C,S1TIN_C1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.839,W005 17.280,,,,WGS84,GB
+S1TIN_C,S1TIN_C2,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,1,1,Individual,Present,N55 41.839,W005 17.280,,,,WGS84,GB
+S1TIN_C,S1TIN_C3,Human_observation ,2025-09-11,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 41.839,W005 17.280,,,,WGS84,GB
+S1TIN_C,S1TIN_C4,Human_observation ,2025-09-11,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 41.839,W005 17.280,,,,WGS84,GB
+S1TIN_D,S1TIN_D1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.825,W005 17.275,,,,WGS84,GB
+S1TIN_D,S1TIN_D2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.825,W005 17.275,,,,WGS84,GB
+S1TIN_E,S1TIN_E1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,1,1,Individual,Present,N55 41.809,W005 17.269,,,,WGS84,GB
+S1TIN_F,S1TIN_F1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,4,4,Individual,Present,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_F,S1TIN_F2,Human_observation ,2025-09-11,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_F,S1TIN_F3,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_F,S1TIN_F4,Human_observation ,2025-09-11,Animalia,Thysanoptera,Thysanoptera,Thrip,Order,1,1,Individual,Present,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_F,S1TIN_F5,Human_observation ,2025-09-11,Animalia,Diptera,Tipuloidea,Crane fly,Family,1,1,Individual,Present,N55 41.793,W005 17.255,,,,WGS84,GB
+S1TIN_G,S1TIN_G1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,2,2,Individual,Present,N55 41.778,W005 17.249,,,,WGS84,GB
+S1TIN_H,S1TIN_H1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,3,3,Individual,Present,N55 41.763,W005 17.235,,,,WGS84,GB
+S1TIN_H,S1TIN_H2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.763,W005 17.235,,,,WGS84,GB
+S1TIN_H,S1TIN_H3,Human_observation ,2025-09-11,Animalia,Homoptera,Homoptera,Insect,Order,2,2,Individual,Present,N55 41.763,W005 17.235,,,,WGS84,GB
+S1TIN_H,S1TIN_H4,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True bug,Order,1,1,Individual,Present,N55 41.763,W005 17.235,,,,WGS84,GB
+S2TIN_A,S2TIN_A1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,11,11,Individual,Present,N55 41.935,W005 17.240,,,,WGS84,GB
+S2TIN_A,S2TIN_A2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.935,W005 17.240,,,,WGS84,GB
+S2TIN_B,S2TIN_B1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,13,13,Individual,Present,N55 41.924,W005 17.220,,,,WGS84,GB
+S2TIN_B,S2TIN_B2,Human_observation ,2025-09-11,Animalia,Homoptera,Homoptera,Insect,Order,1,1,Individual,Present,N55 41.924,W005 17.220,,,,WGS84,GB
+S2TIN_B,S2TIN_B3,Human_observation ,2025-09-11,Animalia,Lepidoptera,Lepidoptera,Caterpillar,Order,2,2,Individual,Present,N55 41.924,W005 17.220,,,,WGS84,GB
+S2TIN_C,S2TIN_C1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,19,19,Individual,Present,N55 41.914,W005 17.203,,,,WGS84,GB
+S2TIN_C,S2TIN_C2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.914,W005 17.203,,,,WGS84,GB
+S2TIN_D,S2TIN_D1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,48,48,Individual,Present,N55 41.894,W005 17.194,,,,WGS84,GB
+S2TIN_D,S2TIN_D2,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True bug,Order,1,1,Individual,Present,N55 41.894,W005 17.194,,,,WGS84,GB
+S2TIN_D,S2TIN_D3,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True bug,Order,1,1,Individual,Present,N55 41.894,W005 17.194,,,,WGS84,GB
+S2TIN_E,S2TIN_E1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,25,25,Individual,Present,N55 41.881,W005 17.177,,,,WGS84,GB
+S2TIN_E,S2TIN_E2,Human_observation ,2025-09-11,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.881,W005 17.177,,,,WGS84,GB
+S2TIN_E,S2TIN_E3,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True bug,Order,1,1,Individual,Present,N55 41.881,W005 17.177,,,,WGS84,GB
+S2TIN_E,S2TIN_E4,Human_observation ,2025-09-11,Animalia,Homoptera,Homoptera,Insect,Order,4,4,Individual,Present,N55 41.881,W005 17.177,,,,WGS84,GB
+S2TIN_F,S2TIN_F1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.867,W005 17.160,,,,WGS84,GB
+S2TIN_G,S2TIN_G1,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,2,2,Individual,Present,N55 41.857,W005 17.140,,,,WGS84,GB
+S2TIN_G,S2TIN_G2,Human_observation ,2025-09-11,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.857,W005 17.140,,,,WGS84,GB
+S2TIN_H,S2TIN_H1,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True bug,Order,1,1,Individual,Present,N55 41.843,W005 17.134,,,,WGS84,GB
+S2TIN_H,S2TIN_H2,Human_observation ,2025-09-11,Animalia,Araneae,Araneae,Spider,Order,3,3,Individual,Present,N55 41.843,W005 17.134,,,,WGS84,GB
+S2TIN_I,S2TIN_I1,Human_observation ,2025-09-11,Animalia,Ixodida,Ixodoidea,Tick,Family,5,5,Individual,Present,N55 41.828,W005 17.120,,,,WGS84,GB
+S2TIN_J,S2TIN_J1,Human_observation ,2025-09-11,Animalia,Hemiptera,Hemiptera,True bug,Order,1,1,Individual,Present,N55 41.817,W005 17.100,,,,WGS84,GB
+S2TIN_J,S2TIN_J2,Human_observation ,2025-09-11,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.817,W005 17.100,,,,WGS84,GB
+S2TIP_C,S2TIP_C1,Human_observation ,2025-09-10,Animalia,Coleoptera,Anoplotrupes stercorosus,Dor beetle,Species,1,1,Individual,Present,N55 41.914,W005 17.203,,,,WGS84,GB
+S3TIN_A,S3TIN_A1,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,2,2,Individual,Present,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIN_A,S3TIN_A2,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,2,2,Individual,Present,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIN_A,S3TIN_A3,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 42.027,W005 17.134,,,,WGS84,GB
+S3TIN_B,S3TIN_B1,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,3,3,Individual,Present,N55 42.003,W005 17.094,,,,WGS84,GB
+S3TIN_B,S3TIN_B2,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 42.003,W005 17.094,,,,WGS84,GB
+S3TIN_B,S3TIN_B3,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,2,2,Individual,Present,N55 42.003,W005 17.094,,,,WGS84,GB
+S3TIN_B,S3TIN_B4,Human_observation ,2025-09-10,Animalia,Araneae,Linyphiidae,Money spider,Family,1,1,Individual,Present,N55 42.003,W005 17.094,,,,WGS84,GB
+S3TIN_C,S3TIN_C1,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,2,2,Individual,Present,N55 41.979,W005 17.065,,,,WGS84,GB
+S3TIN_C,S3TIN_C2,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.979,W005 17.065,,,,WGS84,GB
+S3TIN_C,S3TIN_C3,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,2,2,Individual,Present,N55 41.979,W005 17.065,,,,WGS84,GB
+S3TIN_C,S3TIN_C4,Human_observation ,2025-09-10,Animalia,Hemiptera,Hemiptera,True bug,Order,1,1,Individual,Present,N55 41.979,W005 17.065,,,,WGS84,GB
+S3TIN_D,S3TIN_D1,Human_observation ,2025-09-10,Animalia,Hemiptera,Hemiptera,True bug,Order,1,1,Individual,Present,N55 41.949,W005 17.042,,,,WGS84,GB
+S3TIN_D,S3TIN_D2,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.949,W005 17.042,,,,WGS84,GB
+S3TIN_D,S3TIN_D3,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,2,2,Individual,Present,N55 41.949,W005 17.042,,,,WGS84,GB
+S3TIN_E,S3TIN_E1,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,4,4,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_E,S3TIN_E2,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_E,S3TIN_E3,Human_observation ,2025-09-10,Animalia,Homoptera,Homoptera,Insect,Order,3,3,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_E,S3TIN_E4,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_E,S3TIN_E5,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_E,S3TIN_E6,Human_observation ,2025-09-10,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIN_F,S3TIN_F1,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,1,1,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_F,S3TIN_F2,Human_observation ,2025-09-10,Animalia,Homoptera,Homoptera,Insect,Order,2,2,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_F,S3TIN_F3,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,2,2,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_F,S3TIN_F4,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_F,S3TIN_F5,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_F,S3TIN_F6,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,3,3,Individual,Present,N55 41.902,W005 16.956,,,,WGS84,GB
+S3TIN_G,S3TIN_G1,Human_observation ,2025-09-10,Animalia,Hymenoptera,Formicidae,Ant,Family,1,1,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_G,S3TIN_G2,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,2,2,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_G,S3TIN_G3,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,2,2,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_G,S3TIN_G4,Human_observation ,2025-09-10,Animalia,Diptera,Diptera,Fly,Order,1,1,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_G,S3TIN_G5,Human_observation ,2025-09-10,Animalia,Homoptera,Homoptera,Insect,Order,2,2,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_G,S3TIN_G6,Human_observation ,2025-09-10,Animalia,Araneae,Leiobunum rotundum,Harverstman spider,Species,1,1,Individual,Present,N55 41.907,W005 16.884,,,,WGS84,GB
+S3TIN_H,S3TIN_H1,Human_observation ,2025-09-10,Animalia,Araneae,Araneae,Spider,Order,1,1,Individual,Present,N55 41.862,W005 16.861,,,,WGS84,GB
+S3TIN_H,S3TIN_H2,Human_observation ,2025-09-10,Animalia,Homoptera,Homoptera,Insect,Order,1,1,Individual,Present,N55 41.862,W005 16.861,,,,WGS84,GB
+S3TIN_I,S3TIN_I1,Human_observation ,2025-09-10,Animalia,Ixodida,Ixodoidea,Tick,Family,2,2,Individual,Present,N55 41.843,W005 16.821,,,,WGS84,GB
+S3TIN_I,S3TIN_I2,Human_observation ,2025-09-10,Animalia,Araneae,Linyphiidae,Money spider,Family,2,2,Individual,Present,N55 41.843,W005 16.821,,,,WGS84,GB
+S3TIN_I,S3TIN_I3,Human_observation ,2025-09-10,Animalia,Lepidoptera,Lepidoptera,Caterpillar,Order,1,1,Individual,Present,N55 41.843,W005 16.821,,,,WGS84,GB
+S3TIN_J,S3TIN_J1,Human_observation ,2025-09-10,Animalia,Homoptera,Homoptera,Insect,Order,3,3,Individual,Present,N55 41.828,W005 16.810,,,,WGS84,GB
+S3TIP_E,S3TIP_E1,Human_observation ,2025-09-09,Animalia,Araneae,Araneae,Spider,Order,1,1,Indivdidual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIP_E,S3TIP_E2,Human_observation ,2025-09-09,Animalia,Homoptera,Homoptera,Insect,Order,1,1,Indivdidual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIP_E,S3TIP_E3,Human_observation ,2025-09-09,Animalia,Poduromorpha,Poduromorpha,Springtail,Order,1,1,Indivdidual,Present,N55 41.922,W005 17.005,,,,WGS84,GB
+S3TIP_I,S3TIP_I1,Human_observation ,2025-09-09,Animalia,Coleoptera,Pterostichus niger,Woodland ground beetle,Order,1,1,Indivdidual,Present,N55 41.843,W005 16.821,,,,WGS84,GB
+S3TIP_J,S3TIP_J1,Human_observation ,2025-09-09,Animalia,Ixodida,Ixodoidea,Tick,Family,1,1,Indivdidual,Present,N55 41.828,W005 16.810,,,,WGS84,GB

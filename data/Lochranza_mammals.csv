@@ -1,0 +1,16 @@
+eventID,occurrenceID,basisOfRecord,eventDate,kingdom,Order,scientificName,Commonname,taxonRank,individualCount,organismQuantity,organismQuantityType,occurrenceStatus,Latitude N,Longitude W,Pollutionscore,Endlatitude,Endlongitude,geodeticDatum,countryCode,Comments
+S3MR,S3MR_1,CameraTrap,2025-09-11,Animalia,Rodentia,Sciurus vulgaris,Red Squirrel,Species,1,1,Individual,Present,N 055°69.919,W 005°28.530,N/A,,,WGS84,SCO,
+N2MR,N2MR_1,CameraTrap,2025-09-10,No records,No records,No records,No records,No records,0,0,,Absent,N 055°70.727,W 005°28.102,N/A,,,WGS84,SCO,
+S3MR,S3MR_2,CameraTrap,2025-09-10,No records,No records,No records,No records,No records,0,0,,Absent,N 055°69.738,W 005°28.134,N/A,,,WGS84,SCO,
+N3MR,N3MR_1,CameraTrap,2025-09-10,No records,No records,No records,No records,No records,0,0,,Absent,N 055°70.760,W 005°27.946,N/A,,,WGS84,SCO,
+N1MR,N1MR_1,Humanobservation,2025-09-09,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Individual,Present,N 055°70.738,W 005°27.611,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+N1MR,N1MR_2,Humanobservation,2025-09-09,Animalia,Artiodactyla,Ovis sp.,Domestic sheep,Genus,1,1,Individual,Present,N 055°70.426,W 005°27.224,N/A,,,WGS84,SCO,"Few ind, faeces as well"
+N2MR,N2MR_2,Humanobservation,2025-09-10,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Individual,Present,N 055°70.534,W 005°26.875,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+N2MR,N2MR_3,Humanobservation,2025-09-10,Animalia,Artiodactyla,Ovis sp.,Domestic sheep,Genus,1,1,Individual,Present,N 055°70.583,W 005°26.983,N/A,,,WGS84,SCO,"Few ind, faeces as well"
+N2MR,N2MR_4,Humanobservation,2025-09-11,Animalia,Carnivora,Meles meles,Badger,Species,1,1,Individual,Present,N 055°70.731,W 005°27.867,N/A,,,WGS84,SCO,
+N3MR,N3MR_2,Humanobservation,2025-09-12,Animalia,Rodentia,Sciurus vulgaris,Red Squirrel,Species,2,2,Individual,Present,N 055°70.328,W 005°27.880,N/A,,,WGS84,SCO,
+N3MR,N3MR_3,Humanobservation,2025-09-12,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Individual,Present,N 055°70.528,W 005°28.117,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+S1MR,S1MR_1,Humanobservation,2025-09-11,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Faeces,Present,N 055°69.590,W 005°28.581,N/A,,,WGS84,SCO,Just faeces
+S2MR,S2MR_1,Humanobservation,2025-09-10,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Individual,Present,N 055°69.755,W 005°28.505,N/A,,,WGS84,SCO,"Few ind, faeces as well"
+S3MR,S3MR_3,Humanobservation,2025-09-12,Animalia,Artiodactyla,Ovis sp.,Domestic sheep,Genus,1,1,Individual,Present,N 055°69.893,W 005°28468,N/A,,,WGS84,SCO,"Many ind, faeces as well"
+S3MR,S3MR_3,Humanobservation,2025-09-12,Animalia,Artiodactyla,Cervus elaphus,Red dear,Species,1,1,Individual,Present,N 055°69.718,W 005°28258,N/A,,,WGS84,SCO,"Many ind, faeces as well"
