@@ -1,0 +1,27 @@
+,GBIF IPT Template:
+,Sampling Event Data
+,
+,"Use this template for filling in species data derived from standardized protocols for measuring and observing biodiversity. Upload the template to the IPT where it can be published in Darwin Core Archive (DwC-A) format. Note this template includes two sheets: the Sampling Events sheet must be mapped to the Event Core, and the Associated Occurrences must be mapped to the Occurrence Extension (in the IPT)."
+,
+Sheet Name,Purpose
+Sampling Events,"This sheet is used to record the list of sampling events indicating what protocol was followed, and information about its sample size and its locality. To enable researchers to infer absence of particular species from events, be sure to include the event even if it has no associated occurrence data. Furthermore, make sure to indicate the ""parentEventID"" for each event when it is part of an event series."
+,Notes:
+,"#1. The header row shows required and recommended terms. Hover over the cell to find out if it's required or recommended, and to obtain a definition of the term examples. "
+,"#2. Additional columns can be added, but you should only use DwC term names from the Event Core: http://rs.gbif.org/core/dwc_event_2016_06_21.xml"
+,"#3. Columns can be reordered, but the header name (equal to a DwC term name) cannot be changed."
+,"#4. Enter lists using the pipe (“|”) character as a separator, for applicable DwC terms only."
+,
+Key for Event/ParentID,"Please Write the event ID in this order: Location: N (North), S (South), U (Upstream), D (Downstream). Altitude: 1 (High), 2 (Middle), 3 (Low), 4 (Valley). Team: B (Bird), MR (Terrestrial Mammal Recording), C (Chiroptera; bats), CR (Chiroptera Recording), TIN (Netted Terrestrial Invertebrates), TIP (Pitfallen Terrestrial Invertebrates), TIT (Trapped terrestrial Invertebrates), FI (Freshwater Invertebrates), P (Plants). Instance (e.g. Quadrat on a transect): A, B, C, D etc. Example: the 4th quadrat on the third North slope plant transect at high altitude: N1P_D. "
+,
+Associated Occurrences,"This sheet is used to record the occurrence data derived from (associated to) each sampling event. Each record must link to a sampling event via its eventID. Although redundant in some cases, the abundance/cover of the species should be recorded using ""individualCount"" and the combination of ""organismQuantity""/""organismQuantityType"". Presence/absence data can be recorded by setting ""occurrenceStatus"" to ""present"" or ""absent"". Only provide a location for individual occurrences if it is different from the location of the event, otherwise the location gets inherted from the event. "
+,Notes:
+,"#1. The header row shows required and recommended terms. Hover over the cell to find out if it's required or recommended, and to obtain a definition of the term examples. "
+,"#2. Additional columns can be added, but you should use DwC term names from the Occurrence Extension: http://rs.gbif.org/core/dwc_occurrence_2015-07-02.xml"
+,"#3. Columns can be reordered, but the header name (equal to a DwC term name) cannot be changed."
+,"#4. Enter lists using the pipe (“|”) character as a separator, for applicable DwC terms only."
+,
+Key for Occurence ID,"Same as before, plus a number for each individual/taxa being logged (note: these do not carry over between multiple events even if taxa are the same) e.g. the 3rd species being logged for the 4th quadrat on the third plant transect at high altitude on the north slope: N1PD3"
+,
+Key for Headings,Yellow: Necessary. Orange: Preferable. Blue: applicable to streams only. Green: applicable to Birds only. Dark Purple: standard
+,
+Site used for coordinates,https://www.geocachingtoolbox.com/index.php?page=w3w&status=result
